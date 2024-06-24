@@ -32,6 +32,7 @@ function getList(list) {
     const eng = phrArr[0]
     const spn = phrArr.length > 1 ? phrArr[1] : ''
     const slug = slugy(eng)
+    const btn = getBtnAudio(eng)
 
     const a = document.createElement('a')
     a.textContent = eng
@@ -39,6 +40,7 @@ function getList(list) {
 
     li.id = slug
     li.appendChild(a)
+    li.appendChild(btn)
 
     if (spn) {
       const sml = document.createElement('small')
@@ -49,9 +51,22 @@ function getList(list) {
   })
 }
 
+function getBtnAudio(text) {
+  const btn = document.createElement('button')
+  btn.textContent = '🔊'
+  btn.className = 'btn-audio'
+
+  btn.addEventListener('click', function () {
+    const utterance = new SpeechSynthesisUtterance(text)
+    utterance.lang = 'en'
+    speechSynthesis.speak(utterance)
+  })
+
+  return btn
+}
+
 function slugy(text) {
   return text.toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w-]+/g, '')
-    // .replaceAll("'", '')
 }

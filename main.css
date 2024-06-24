@@ -33,3 +33,11 @@ li a {
 li small {
   display: block;
 }
+
+li button {
+  padding: 0;
+  border-radius: 1rem;
+  margin-left: 1rem;
+  background-color: rgb(255 255 255 / 0.1);
+  border: 1px solid #333;
+}
