@@ -34,12 +34,12 @@ function getList(list) {
     const slug = slugy(eng)
     const btn = getBtnAudio(eng)
 
-    const a = document.createElement('a')
-    a.textContent = eng
-    a.href = '#' + slug
+    const span = document.createElement('span')
+    span.textContent = eng
+    // a.href = '#' + slug
 
     li.id = slug
-    li.appendChild(a)
+    li.appendChild(span)
     li.appendChild(btn)
 
     if (spn) {
