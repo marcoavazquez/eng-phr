@@ -9,7 +9,7 @@ window.addEventListener('load', function () {
 
   document.querySelector('#search-form').addEventListener('submit', function (e) {
     e.preventDefault()
-    const search = e.target.search.value
+    const search = e.target.search.value.trim()
 
     list.textContent = ''
     
