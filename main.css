@@ -1,11 +1,24 @@
 body {
   background-color: black;
   color: white;
+  padding-top: 2rem;
+}
+
+input[type="search"] {
+  position: fixed;
+  top: 0;
+  left: 0;
+  opacity: 0.9;
+  padding: 0.25rem 0.5rem;
 }
 
 ol {
   margin: 0;
   padding-left: 1.75rem;
+}
+ol li::marker {
+  color: #aaa;
+  font-size: 90%;
 }
 
 li {
@@ -14,7 +27,7 @@ li {
 }
 
 li a {
-  color : white;
+  color : #cacaca;
   text-decoration: none;
 }
 li small {
