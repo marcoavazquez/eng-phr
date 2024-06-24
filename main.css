@@ -5,16 +5,18 @@ body {
 
 ol {
   margin: 0;
-  padding: 1rem;
+  padding-left: 1.75rem;
 }
 
 li {
-  padding: 1rem;
+  padding: 1rem 0.5rem;
   border-top: 1px solid #333;
 }
 
 li a {
   color : white;
-  display: block;
   text-decoration: none;
+}
+li small {
+  display: block;
 }
