@@ -1,0 +1,20 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+ol {
+  margin: 0;
+  padding: 1rem;
+}
+
+li {
+  padding: 1rem;
+  border-top: 1px solid #333;
+}
+
+li a {
+  color : white;
+  display: block;
+  text-decoration: none;
+}
