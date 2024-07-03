@@ -7,10 +7,11 @@ window.addEventListener('load', function () {
     })
   }
 
+  document.querySelector('#search-form input').placeholder = 'Search on ' + phrases.length + ' phrases'
+
   document.querySelector('#search-form').addEventListener('submit', function (e) {
     e.preventDefault()
     const search = e.target.search.value.trim()
-
     list.textContent = ''
     
     const filtered = phrases.filter((phrase) => {
