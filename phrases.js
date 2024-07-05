@@ -68,7 +68,7 @@ const phrases = [
   `lean:  | Be in or move into a sloping position (inclinar)`,
   `debt: I paid off my debts | Something, typically money, that is owed or due`,
   `Owed | Have an obligation to pay or repay (something, especially money) in return for something received`,
-  `due | Expected at or planned for at a certain time; (Pendiente, Debido)`
+  `due | Expected at or planned for at a certain time; (Pendiente, Debido)`,
   `swiftly | At high speed; quickly`,
   `endeavours: He is endeavoring to help the Third World; | Try hard to do or achieve something; An attempt to achieve a goal`,
   `pinpoint: One flare had pinpointed the target; | A tiny dot or point; Absolutely precise; to the finest degree; Find or locate exactly`,
@@ -151,7 +151,7 @@ const phrases = [
   `Struggle: There were signs of a struggle and there was a lot of blood around | (Lucha)`,
   `Stale React component state | (previous state, i think so...)`,
   `We can get rid of some of that cruft by... | Get rid of: Deshacerse; `,
-  `Cruft | Badly designed, unnecessarily complicated, or unwanted code or software`
+  `Cruft | Badly designed, unnecessarily complicated, or unwanted code or software`,
   `flawed | Blemished, damaged, or imperfect in some way (Defectuoso)`,
   `move around`,
   `Ruthlessly | sin piedad`,
