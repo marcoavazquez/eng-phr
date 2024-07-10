@@ -843,4 +843,12 @@ const phrases = [
   `Some stereotypes can be really harmful`,
   `French people aren't all like that, it's just a silly stereotype | ...es un estereotipo absurdo`,
   `I can already see the skyscrapers from the airplane window | Ya puedo ver los rascacielos...`,
+  `The best way to get to the city is by public transport`,
+  `The entry fee was quite inexpensive | La entrada fue bastante barata`,
+  `I might rent a scooter | Quizá rente una motoneta`,
+  `Don't go too close to the bonfire | No te acerques mucho a la fogata`,
+  `She gets freckles from the sun | Le salen pecas por el sol`,
+  `She is such a beauty | Ella es toda una belleza`,
+  `She has these cure freckles all over her face | pecas`,
+  `I really love those little wrinkles around her eyes that appear when she smiles`,
 ]
