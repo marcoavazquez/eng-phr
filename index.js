@@ -45,7 +45,9 @@ function getList(list) {
 
     if (spn) {
       const sml = document.createElement('small')
-      sml.textContent = spn
+      const i = document.createElement('i')
+      i.textContent = spn
+      sml.appendChild(i)
       li.appendChild(sml)
     }
     return li
