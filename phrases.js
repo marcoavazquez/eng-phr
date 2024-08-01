@@ -1153,7 +1153,7 @@ const phrases = [
   `I think we need to discuss this thoroughly
     | ...en profundidad. Discuss se refiere a hablar de algo en detalle, sin que esto implique una pelea o desacuerdo. Discuss = hablar de, Argue = discutir`,
   `I find myself doubting him even when I know he is being honest`,
-  `Has she been waiting there the whole day?`
+  `Has she been waiting there the whole day?`,
   `She has been drafting that message for hours`,
   `How long have you been playing baseball now?`,
   `I had not been studying Chinese for long before I moved to China | durante mucho tiempo`,
