@@ -25,6 +25,7 @@ ol li::marker {
 li {
   padding: 2rem 0.5rem;
   border-top: 1px solid #333;
+  font-size: 150%;
 }
 
 li a {
