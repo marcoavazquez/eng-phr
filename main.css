@@ -1,7 +1,7 @@
 body {
   background-color: black;
   color: #bababa;
-  padding-top: 2rem;
+  padding: 2rem 1rem 1rem 0;
 }
 
 input[type="search"] {
@@ -23,9 +23,11 @@ ol li::marker {
 }
 
 li {
-  padding: 2rem 0.5rem;
-  border-top: 1px solid #333;
-  font-size: 150%;
+  padding: 1rem;
+  border: 1px solid #222;
+  border-radius: 0.5rem;
+  font-size: 120%;
+  margin-bottom: 2rem;
 }
 
 li a {
