@@ -25,22 +25,22 @@ window.addEventListener('load', function () {
 })
 
 function getList(list) {
-  return list.map((phrase) => {
+  return list.map((phrase, index) => {
     const li = document.createElement('li')
 
     const phrArr = phrase.split('|')
 
     const eng = phrArr[0]
     const spn = phrArr.length > 1 ? phrArr[1] : ''
-    const slug = slugy(eng)
+    const slug = slugy(eng, index)
     const btn = getBtnAudio(eng)
 
-    const span = document.createElement('span')
-    span.textContent = eng
-    // a.href = '#' + slug
+    const textEl = document.createElement('a')
+    textEl.textContent = eng
+    textEl.href = '#' + slug
 
     li.id = slug
-    li.appendChild(span)
+    li.appendChild(textEl)
     li.appendChild(btn)
 
     if (spn) {
@@ -68,8 +68,11 @@ function getBtnAudio(text) {
   return btn
 }
 
-function slugy(text) {
-  return text.toLowerCase()
+function slugy(text, index) {
+  return text.trim()
+    .substr(0, 20)
+    .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/[^\w-]+/g, '')
+    + '-' + (index + 1)
 }
