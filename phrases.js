@@ -1511,5 +1511,6 @@ const phrases = [
   `What coping strategies have you found useful in your daily life? | ¿Qué estrategias de afrontamiento has encontrado útiles en tu vida diaria?`,
   `She loves to draw. She hasn't practiced drawing in years`,
   `She likes to draw, even if the end result isn't always perfect`,
-  ``,
+  `We stayed up late because the movie lasted longer than we expected | Nos quedamos despiesrtos`,
+  `phenomenon - phenomena, bacterium - bacteria, datum - data, curriculum - curricula, criterion - criteria`,
 ]
