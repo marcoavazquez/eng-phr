@@ -1513,4 +1513,10 @@ const phrases = [
   `She likes to draw, even if the end result isn't always perfect`,
   `We stayed up late because the movie lasted longer than we expected | Nos quedamos despiesrtos`,
   `phenomenon - phenomena, bacterium - bacteria, datum - data, curriculum - curricula, criterion - criteria`,
+  `It;s traditional to..., You're expected to..., The city has a ... feel, The region is famous for...`,
+  `Two new analyses support this theory | analysis - analyses`,
+  `The doctor is really good at making diagnoses | diagnosis - diagnoses`,
+  `Many people go through financial crises in their lives | crisis - crises`,
+  `The desert has a lot of different cacti | cactus - cactuses,cacti`,
+  `The university held an event for its alumni | alumnus - alumni. celebró un evento para sus graduados`,
 ]
