@@ -1934,6 +1934,5 @@ const phrases = [
   `How much will you be splitting? | `, 
   `Whom might I be speaking? | ¿A quién debo hablar?`,
   `I signed my employment contract yesterday`,
-  `I will look up the meaning of the word | voy a buscar el significado de la palabra`,
-  ``,
+  `I will look up the meaning of the word | We use "look up" when we want to search for a piece of specific information`,
 ]
