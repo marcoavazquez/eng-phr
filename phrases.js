@@ -1931,4 +1931,9 @@ const phrases = [
   `Is she always this polite to people?`,
   `Of course we're not disappointed in you`,
   `I'm committed to making this work`,
+  `How much will you be splitting? | `, 
+  `Whom might I be speaking? | ¿A quién debo hablar?`,
+  `I signed my employment contract yesterday`,
+  `I will look up the meaning of the word | voy a buscar el significado de la palabra`,
+  ``,
 ]
