@@ -2782,4 +2782,6 @@ const phrases = [
   `Beauty is in th eye of the beholder | La belleza está en los ojosde quien la mira`,
   `You reap what you sow | Lo que se siembra se consecha`,
   `All is fair in love and war | todo se vale`,
+  `It allows to remain flexible | Permite permanecer flexibles`,
+  `Agile speeds up delivery times | Acelera los tiempo de entrega`,
 ]
