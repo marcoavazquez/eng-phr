@@ -2784,4 +2784,10 @@ const phrases = [
   `All is fair in love and war | todo se vale`,
   `It allows to remain flexible | Permite permanecer flexibles`,
   `Agile speeds up delivery times | Acelera los tiempo de entrega`,
+  `It would not be inaccurate to say | No sería inexacto decir`,
+  `If it was up to me, I wouldn't even have it in the first place | Si fuera por mi, no lo tendría en primer lugar`,
+  `There are certain things in life that are just not up to us: This sentence means that there are things in our lives we have no control over`,
+  `I've been developing a bit of an anxiety issue, where my heart's beating really fast and I get overwhelmed by the fear of messing something up`,
+  `We've been tight ever since: We have been close since that time`,
+  `Sorry I had to bail last night. I was beat : I'm sorry I had to leave early last night. I was really tired`,
 ]
