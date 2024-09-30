@@ -2790,4 +2790,13 @@ const phrases = [
   `I've been developing a bit of an anxiety issue, where my heart's beating really fast and I get overwhelmed by the fear of messing something up`,
   `We've been tight ever since: We have been close since that time`,
   `Sorry I had to bail last night. I was beat : I'm sorry I had to leave early last night. I was really tired`,
+  `Introducing a cause: since, because, as a result of, because of, due to`,
+  `Intriducing a effect: so, therefore`,
+  `She doesn't like running therefore she does yoga`,
+  `She is more flexible as a result of her yoga classes`,
+  `How do you feel about your commute to work or school? | ¿Cómo te sientes con tu trayecto al trabajo o la escuela?`,
+  `Like I said | Como dije`,
+  `Let's wrap up for today: Let's finish for today`,
+  `She's laid back and down to earth | Es relajada y con los pies en la tierra`,
+  ``,
 ]
