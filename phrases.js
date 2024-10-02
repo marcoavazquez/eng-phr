@@ -2814,4 +2814,8 @@ const phrases = [
   `That's a steal | Eso es una oferta muy buena`,
   `Thanks for the freebies | Gracias por los regalos gratis`,
   `Jack up: To increase the price of something`,
+  `He's getting carried away | Se está emborrachando`,
+  `The continuing story of a quack who's gone to the dogs | La historia continua de un estafador que se ha ido a la mierda`,
+  `The one app in your hostel that showed promise | La única aplicación en tu alojamiento que mostraba promesas`,
+  ``,
 ]
