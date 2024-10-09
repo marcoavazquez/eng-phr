@@ -2870,10 +2870,20 @@ const phrases = [
   `They are getting hitched | Se están casando`,
   `They're tying the knot this summer | Se van a casar este verano`,
   `She had been wanting to get hitched for a long time`,
-  `He just died 8 hours ago from that monster, how could he have died back then too? | Acabó de morir 8 horas atrás de ese monstruo, ¿cómo pudo haber muerto también entonces?`,
+  `He just died 8 hours ago from that monster, how could he have died back then too?
+    | Acabó de morir 8 horas atrás de ese monstruo, ¿cómo pudo haber muerto también entonces?`,
   `Where could they have stashed it? | ¿Dónde lo habrán escondido?`,
   `The microphone on my headset may have broken`,
   `Have you told your families already? | ¿Ya les has contado a tus familias?`,
   `So don't let the cat out of the bag just yet - My lips are sealed, I promise!`,
   `He's on his way | Está en camino`,
+  `You can't even open a pickle jar on your own`,
+  `I always felt more like a bohemian`,
+  `Once we've set the date, we'll send out invitations`,
+  `She sent out the invitations well in advance`,
+  `Can I bring a plus one? | ¿Puedo llevar a alguien más?`,
+  `They created a seating plan to mix the guests up: A 'seating plan' assigns each guest to a certain seat or table
+    | Crearon un plan de asientos para mezclar a los invitados`,
+  `There's a lovely venue by the riverside, we should take a look at it`,
+  ``,
 ]
