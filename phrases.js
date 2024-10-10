@@ -2885,5 +2885,12 @@ const phrases = [
   `They created a seating plan to mix the guests up: A 'seating plan' assigns each guest to a certain seat or table
     | Crearon un plan de asientos para mezclar a los invitados`,
   `There's a lovely venue by the riverside, we should take a look at it`,
-  ``,
+  `We should get going, we don't want to be late`,
+  `If we don't get working on it now, we'll never get it done`,
+  `I wanna hear you stomp if you're tired of being a pushover | Pisar fuerte si estas cansado de ser una pusilánime`,
+  `Always your faithful student | Siempre tu estudiante fiel`,
+  `I await your quick response | Espero tu rápida respuesta`,
+  `You realize how much money we'd be walking away from? | ¿Te das cuenta de cuánto dinero estaríamos dejando de lado?`,
+  `We'll be able to create the seating chart when we have a guest list: instead of "if" we can use "when"`,
+  `When the speeches have finished, will you help me put the food away? | Cuando acaben las charlas, ¿me ayudarías a guardar la comida?`,
 ]
