@@ -2995,5 +2995,7 @@ const phrases = [
   `How could you be failing english? | ¿Cómo podrías estar suspendiendo inglés?`,
   `I want you to be totally honest with me | Quiero que seas completamente honesto conmigo`,
   `He's been eyeing it for a while | Ha estado mirándolo por un tiempo`,
-  ``,
+  `Would you like it engraved? | ¿Quieres que lo graben?`,
+  `I read the full book over the weekend`,
+  `I couldn't put it down | No pude dejarlo`,
 ]
