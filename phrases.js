@@ -2991,4 +2991,9 @@ const phrases = [
   `give us a call if something comes up | Llámanos si algo pasa`,
   `Because when you make him mad, he leaves with the key | Porque cuando lo haces enojar, se va con la llave`,
   `I don't give rat's ass who you screw | No me importa un carajo a quién le chupes / Me importa una mierda a quién te folles.`,
+  `What could you possibly be buying? | ¿Qué podría estar comprando?`,
+  `How could you be failing english? | ¿Cómo podrías estar suspendiendo inglés?`,
+  `I want you to be totally honest with me | Quiero que seas completamente honesto conmigo`,
+  `He's been eyeing it for a while | Ha estado mirándolo por un tiempo`,
+  ``,
 ]
