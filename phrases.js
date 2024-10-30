@@ -2998,4 +2998,11 @@ const phrases = [
   `Would you like it engraved? | ¿Quieres que lo graben?`,
   `I read the full book over the weekend`,
   `I couldn't put it down | No pude dejarlo`,
+  `There was one of these in both bags, so whichever one you chose, you would be stuck | Había uno de estos en ambos bolsos, así que cualquiera que eligiera, se quedaría atascado`,
+  `If you handle the big stick, you gotta buy it | Si manejas el palo grande, tienes que comprarlo`,
+  `Our station manager is threatening to pull the plug | Nuestro gerente de estación está amenazando con cortar la corriente`,
+  `I became fond of cats when I realised how intelligent they are | Me enamoré de los gatos cuando me di cuenta de lo inteligentes que son`,
+  `We use "be fond of" and "be crazy about" to say that we like something`,
+  `I'm allergic to cats and I can't bear being around them | Soy alérgico a los gatos y no puedo soportar estar cerca de ellos`,
+  `I live with 5 cats so obviously I'm keen on them | Vivo con 5 gatos, así que obviamente estoy interesado en ellos`,
 ]
