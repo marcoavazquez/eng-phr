@@ -3032,4 +3032,10 @@ const phrases = [
   `It must not fall into the wrong hands | No debe caer en las manos equivocadas`,
   `I just want the winner to not make bad decisions | Solo quiero que el ganador no tome malas decisiones`,
   `news headlineses | títulos de noticias`,
+  `I had just dug this swell hole, when all of a sudden... | Había cavado este gran hoyo, cuando de repente...`,
+  `Watch as they transform this six-passenger capsule into a tiny home | Observa cómo transforman este compartimiento de seis pasajeros en una pequeña casa`,
+  `Susprisingly, the most common way to die in a car crash is by being thrown from the vehicle | Sorprendentemente, la forma más común de morir en un accidente de tráfico es siendo arrojado fuera del vehículo`,
+  `Gradually, I started to realise something wasn't right | Gradualmente, empecé a darme cuenta de que algo no estaba bien`,
+  `Immediately, I decided to run out of the house | Inmediatamente, decidí salir de la casa`,
+  `Suddenly -> gradually, obviously -> strangely`,
 ]
