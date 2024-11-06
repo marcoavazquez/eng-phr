@@ -3025,4 +3025,11 @@ const phrases = [
   `now he's dumped her | ahora la ha abandonado`,
   `I wouldn't dump you | No te abandonaría`,
   `I saw you dump a load before the race | Vi que tiraste una carga antes de la carrera`,
+  `It's still very rare to see a movie plot with a disabled character | Aún es muy raro ver una trama de película con un personaje con discapacidad`,
+  `The numbers don't seem right in a country where 1% of the population has a disability | Los números no parecen estar bien en un país donde el 1% de la población tiene una discapacidad`,
+  `If this is what you want, I won't stand in your way | Si esto es lo que quieres, no me pondré en tu camino`,
+  `come along with me | ven conmigo`,
+  `It must not fall into the wrong hands | No debe caer en las manos equivocadas`,
+  `I just want the winner to not make bad decisions | Solo quiero que el ganador no tome malas decisiones`,
+  `news headlineses | títulos de noticias`,
 ]
