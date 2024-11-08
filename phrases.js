@@ -3049,4 +3049,8 @@ const phrases = [
   `I had no choice but to pull out of the league I was inn | No tenía más remedio que abandonar la liga en la que estaba`,
   `I'll catch my breath for another minute | Me tomaré un respiro por otro minuto`,
   `There are leftovers in the fridge | Hay sobras en el refrigerador`,
+  `This isn't over, not by a long shot | Esto no ha terminado, no por mucho/ni mucho menos`,
+  `But we just can't cover your ass on this one | no podemos cubrise la espalda en este caso`,
+  `Looks like that meth lab you took down was just the tip of the iceberg | Parece que el laboratorio de metanfetamina que acabas de destruir fue solo el principio del iceberg`,
+  `and lying about it to cover your ass! How do you plead? | y mentir sobre eso para cubrir tu espalda! ¿Cómo se declara?`,
 ]
