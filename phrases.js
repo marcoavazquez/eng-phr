@@ -3085,4 +3085,13 @@ const phrases = [
   `Being thoughtful about our savings is vital | Ser considerados en nuestros ahorros es vital`,
   `She's kicking off her campaign for mayor | Ella está iniciando su campaña para alcalde`,
   `You're in total denial | Estás en un completo desacuerdo`,
+  `I'll get started on my maid of honour speech | Empezaré a preparar mi discurso de dama de honor`,
+  `Even though it's probably just a one-time, freak thing | Aunque es probable que sea solo una cosa rara`,
+  `We're just getting started | Acabamos de empezar`,
+  `It's imperative to get a good feel for the car before you buy it | Es imperativo tener una buena sensación del coche antes de comprarlo`,
+  `I'm leaning towards taking the job | Me inclino por aceptar el trabajo`,
+  `I see you're still on the fence | Veo que sigues indeciso.`,
+  `We go over some incentives that might seal the deal | Vamos a revisar algunos incentivos que podrían cerrar el trato`,
+  `I'm already sold on the idea | Ya estoy convencido de la idea`,
+  `We love going the extra mile | Nos encanta ir un poco más allá`,
 ]
