@@ -3106,4 +3106,8 @@ const phrases = [
   `I had to get rid of all the old furniture | Tenía que deshacerme de toda la ropa vieja`,
   `I think I got away with my little lie | Creo que me salí con mi pequeña mentira`,
   `My little girl is getting older`,
+  `The cookies smell delicious: "to smell" as a state`,
+  `I can small cookies in here: "to smell" as an action`,
+  `I'm measuring each piece to make sure they fit in the box`,
+  `I'm measuring if the table will fit in here | Estoy midiendo si la mesa cabe aquí`,
 ]
