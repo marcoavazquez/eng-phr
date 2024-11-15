@@ -3110,4 +3110,10 @@ const phrases = [
   `I can small cookies in here: "to smell" as an action`,
   `I'm measuring each piece to make sure they fit in the box`,
   `I'm measuring if the table will fit in here | Estoy midiendo si la mesa cabe aquí`,
+  `You're supposed to be an environmental control robot | Eres un robot de control ambiental`,
+  `We're going to revial it to see if they match | Vamos a revelarlos para ver si coinciden`,
+  `They kept in touch through emails`,
+  `Everybody was on the same page so the project ran smoothly | Todos estaban en la misma página, por lo que el proyecto corrió sin problemas`,
+  `They are on the same page about what things they have in common | Están de acuerdo en lo que tienen en común`,
+  `My boss is very critical and he's difficult to get along with | Mi jefe es muy crítico y es difícil de convivir`,
 ]
