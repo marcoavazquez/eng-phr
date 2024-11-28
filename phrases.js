@@ -3170,4 +3170,8 @@ const phrases = [
   `I'll be relaxing by the pool this time tomorrow`,
   `What will you be working on tomorrow morning?`,
   `I won't be sleeping; come over whenever you want | No dormiré; ven cuando quieras`,
+  `What happened to finding the man behind the curtain? | ¿Qué pasó con encontrar al hombre detrás de la cortina?`,
+  `I didn't want to see anything happen to you | No quería ver que te pasara algo`,
+  `Something I might have to have another drink to think about`,
+  `He believes in himself enough for the both of us | Él cree en sí mismo lo suficiente para los dos`,
 ]
