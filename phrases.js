@@ -3174,4 +3174,5 @@ const phrases = [
   `I didn't want to see anything happen to you | No quería ver que te pasara algo`,
   `Something I might have to have another drink to think about`,
   `He believes in himself enough for the both of us | Él cree en sí mismo lo suficiente para los dos`,
+  `Somebody gave them to me at school | Alguien me los dio en la escuela`,
 ]
