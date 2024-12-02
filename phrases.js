@@ -3175,4 +3175,7 @@ const phrases = [
   `Something I might have to have another drink to think about`,
   `He believes in himself enough for the both of us | Él cree en sí mismo lo suficiente para los dos`,
   `Somebody gave them to me at school | Alguien me los dio en la escuela`,
+  `They make these shoes in Spain -> These shoes are made in Spain`,
+  `They are making these shoes in Spain -> These shoes are being made in Spain`,
+  `They have made these shoes in Spain -> These shoes have been made in Spain`,
 ]
