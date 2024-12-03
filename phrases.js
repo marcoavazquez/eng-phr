@@ -3178,4 +3178,8 @@ const phrases = [
   `They make these shoes in Spain -> These shoes are made in Spain`,
   `They are making these shoes in Spain -> These shoes are being made in Spain`,
   `They have made these shoes in Spain -> These shoes have been made in Spain`,
+  `It happens from time to time | Sucede de vez en cuando`,
+  `We're good to go | Estamos listos`,
+  `Your city should be looked at through the eyes of a senior citizen | Tu ciudad debe ser vista a través de los ojos de un ciudadano mayor`,
+  `Older citizens could be cared for close to home | Los ciudadanos mayores podrían ser atendidos cerca de casa`,
 ]
