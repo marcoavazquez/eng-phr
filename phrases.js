@@ -3186,4 +3186,9 @@ const phrases = [
   `I may take the whole Japanese army single handed | ...sin ayuda`,
   `I was hurt by your words | Me lastimaron tus palabras`,
   `Shanghai is thought to have a population of 20 million | Se cree que Shanghai tiene una población de 20 millones`,
+  `Keep an eye on the road | Mantén un ojo en el camino`,
+  `I'll take good care of you | Te cuidaré muy bien`,
+  `It's nice that it's so bright in here | Es agradable que esté tan luminoso aquí`,
+  `I like all the places we've looked at | Me gustan todos los lugares que hemos visto`,
+  `Let's visit one more and then pick | Vamos a visitar uno más y luego elegimos`,
 ]
