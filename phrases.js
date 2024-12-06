@@ -3191,4 +3191,5 @@ const phrases = [
   `It's nice that it's so bright in here | Es agradable que esté tan luminoso aquí`,
   `I like all the places we've looked at | Me gustan todos los lugares que hemos visto`,
   `Let's visit one more and then pick | Vamos a visitar uno más y luego elegimos`,
+  `I need to get off at the next bus stop | Necesito bajar en la siguiente parada de autobús`,
 ]
