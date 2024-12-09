@@ -3192,4 +3192,12 @@ const phrases = [
   `I like all the places we've looked at | Me gustan todos los lugares que hemos visto`,
   `Let's visit one more and then pick | Vamos a visitar uno más y luego elegimos`,
   `I need to get off at the next bus stop | Necesito bajar en la siguiente parada de autobús`,
+  `I don't know how I'm supposed to feel about any of this | No sé cómo me tengo que sentir acerca de ninguna de estas cosas`,
+  `There's no way he won't feel all five of us powered up | No hay forma de que no se sienta a todos nosotros con energía`,
+  `In whatever form he may take, I want my son nowhere near this | En la forma que pueda tomar, quiero que mi hijo esté lejos de esto`,
+  `I lived on campus when I was a freshman. Freshman: A first-year student in high school or college`,
+  `That's all there is to it | Eso es todo`,
+  `We've been through this already | Ya lo hemos pasado por esto`,
+  `I still need you to saty on it, now more than ever`,
+  `How's that smell back in the cargo section? | ¿Qué olor hay en la sección de carga?`,
 ]
