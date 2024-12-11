@@ -3210,4 +3210,7 @@ const phrases = [
   `I have no choice but to put my job out of my mind for a while | No tengo otra opción que poner mi trabajo fuera de mi mente por un tiempo`,
   `It's easy to feel cooped up in there | Es fácil sentirse encerrado allí`,
   `It's important to start out easy as you get a feel for it | Es importante empezar fácilmente mientras se tiene una sensación de ello`,
+  `What is the third conditional for? It helps to imagine the past differently, it's used to talk about unreal past situations, events that didn't really happen and imagine their consequences`,
+  `If my parents hadn't met, I wouldn't have been born`,
+  `If you had given me the book, I would have read it`,
 ]
