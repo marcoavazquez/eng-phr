@@ -3242,4 +3242,21 @@ const phrases = [
   `The hustling atmosphere and the excellent amenities | El ambiente bullicioso y las excelentes comodidades`,
   `The air quality is terrible because of pollution`,
   `Do you have to commute everyday? | ¿Tienes que trasladarte todos los días?`,
+  `The smoke could be seen in much of the city | El humo se podía ver en gran parte de la ciudad`,
+  `Last week five passengers were taken to hospital after a train crash | La semana pasada cinco pasajeros fueron llevados al hospital después de un accidente de tren`,
+  `It was the moment of truth | Era el momento de la verdad`,
+  `These things happen, right? No matter how careful you are | Estas cosas suceden, ¿verdad? No importa lo cuidadoso que seas`,
+  `He broke his arm in three places after being hit by a mobility scooter | Se rompió el brazo en tres lugares después de ser golpeado por una scooter móvil`,
+  `His daughter accused the scooter driver of being careless`,
+  `He landed on his side and waited for an ambulance | Cayó de lado y esperó a que llegara un ambulancia`,
+  `Man hit by a careless mobitity scooter driver | Hombre golpeado por un conductor de scooter móvil descuidado`,
+  `The driver was not paying attention because he was looking at his phone`,
+  `The mobility scooter drove straight at him | El scooter se dirigió directamente hacia éle`,
+  `The driver didn't even stop and simply left the scene | El conductor no se detuvo y simplemente abandonó el lugar`,
+  `After I'd watched the security video I had no doubt`,
+  `He will probably be in hospital for the next two weeks`,
+  `Love is a selfish yet selfless feeling | El amor es una sensación egoísta pero desinteresado`,
+  `My mom is always very protective of me`,
 ]
+
+// Change the array to Set
