@@ -2,6 +2,7 @@ body {
   background-color: black;
   color: #bababa;
   padding: 4rem 1rem 1rem 0;
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 input[type="search"] {
