@@ -3293,6 +3293,12 @@ const phrases = [
   `She said we could make lots of small changes which would save us money`,
   `She said that unplugging your devices at night might save you up to $150 a year`,
   `She said the oven temperature might drop by 25 degrees`,
+  `Most of the time, there's no backup for the reported revenues at all | La mayoría de las veces, no hay respaldo para los ingresos informados en absoluto`,
+  `What it is they owe and what it is they own | Lo que deben y lo que poseen`,
+  `I still owe the bank | Aún debo al banco`,
+  `That's how those cartel boys party | Así es como festejaban esos chicos del cartel`,
+  `You had a good time though; you looked like you did | Sin embargo, tuviste un buen rato; parecías que lo hiciste`,
+  `I will now go ahead and pull up your account | Ahora voy a seguir adelante y sacar su cuenta`,
 ]
 
 // Change the array to Set
