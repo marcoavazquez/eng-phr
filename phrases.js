@@ -3299,6 +3299,11 @@ const phrases = [
   `That's how those cartel boys party | Así es como festejaban esos chicos del cartel`,
   `You had a good time though; you looked like you did | Sin embargo, tuviste un buen rato; parecías que lo hiciste`,
   `I will now go ahead and pull up your account | Ahora voy a seguir adelante y sacar su cuenta`,
+  `I finally stepped out of my cave a new woman | Finalmente salí de mi cueva como una nueva mujer`,
+  `What am I stepping in? | ¿Qué estoy pisando?`,
+  `I can break out the pink sea salt | Puedo sacar el sal de mar rosa`,
+  `Stepped out | Abandonar un lugar, situación o acontecimiento`,
+  
 ]
 
 // Change the array to Set
