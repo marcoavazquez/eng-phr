@@ -3325,6 +3325,12 @@ const phrases = [
   `How terrifying | ¡Qué aterrador!`,
   `Teenagers who don't get enough sleep are at risk of feeling anxious and may have difficulties concentrating and staying awake at school`,
   `I'm excited to hear that the problem is being solved, it's exciting to hear that the problem is being solved`,
+  `Emeralds are a pretty rough trade, even by colombian standards | Los esmeraldas son un comercio bastante duro, incluso por estándares colombianos`,
+  `...and when the cops were done with it | ...y cuando los policías terminaron con eso`,
+  `We know who she said the words to | Sabemos a quién le dijo las palabras`,
+  `"To say" and "to tell" are commonly used to report somebody's words. However, they behave differently regarding the indirect object`,
+  `To say -> used without the indirect object: He said that he would help us`,
+  `To tell -> used with the indirect object: He told his sister that he would help us`,
 ]
 
 // Change the array to Set
