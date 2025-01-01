@@ -3331,6 +3331,13 @@ const phrases = [
   `"To say" and "to tell" are commonly used to report somebody's words. However, they behave differently regarding the indirect object`,
   `To say -> used without the indirect object: He said that he would help us`,
   `To tell -> used with the indirect object: He told his sister that he would help us`,
+  `The dance-off at the party had everyone laughing | La competencia de baile en la fiesta hizo que todos se reían`,
+  `In the reported speech "last night" changes to "the previous night" | En la narración en tercera persona, "last night" cambia a "the previous night"`,
+  `When we tell others about something someone said or did, we might change the way we talk about time, place and people`,
+  `It's like adjusting the details so the story makes sense from our point of view | Es como ajustar los detalles para que la historia tenga sentido desde nuestro punto de vista`,
+  `I'll meet you here -> She said she'd meet me there`,
+  `Today -> that day, tonight -> that night, now -> then, last week -> the previous week/the week before, next year -> the following year/the next year, tomorrow -> the following day/the next day, yesterday -> the previous day, here -> there, this -> that/the, these -> those`,
+  `He said he was really bummed he wasn't there to see those moves | Él dijo que estaba muy decepcionado de no haber estado allí para ver esos movimientos`,
 ]
 
 // Change the array to Set
