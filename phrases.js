@@ -3338,6 +3338,12 @@ const phrases = [
   `I'll meet you here -> She said she'd meet me there`,
   `Today -> that day, tonight -> that night, now -> then, last week -> the previous week/the week before, next year -> the following year/the next year, tomorrow -> the following day/the next day, yesterday -> the previous day, here -> there, this -> that/the, these -> those`,
   `He said he was really bummed he wasn't there to see those moves | Él dijo que estaba muy decepcionado de no haber estado allí para ver esos movimientos`,
+  `What are the children whispering about?`,
+  `The coach shouted instructions to the players on the pitch | El entrenador gritó instrucciones a los jugadores en el campo.`,
+  `When he managed to climb the mountain, he shouted from the top`,
+  `News travels fast and people often gossip | Las noticias viajan rápido y la gente suele chismorrear.`,
+  `The coworkers stood around the printer to gossip about the office scandal`,
+  `People often argue about unimportant matters`,
 ]
 
 // Change the array to Set
