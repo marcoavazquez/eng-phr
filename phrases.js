@@ -3344,6 +3344,10 @@ const phrases = [
   `News travels fast and people often gossip | Las noticias viajan rápido y la gente suele chismorrear.`,
   `The coworkers stood around the printer to gossip about the office scandal`,
   `People often argue about unimportant matters`,
+  `To talk about past events in reported speech, you can decide to keep the past simple tense or change it to the past perfect`,
+  `We can keep all forms of present tenses in reported speech if the information is still true at the moment of reporting it`,
+  `They said they are running in the park -> they are still running in the park`,
+  `Who were you talking to? | ¿Con quién estabas hablando?`,
 ]
 
 // Change the array to Set
