@@ -3348,6 +3348,22 @@ const phrases = [
   `We can keep all forms of present tenses in reported speech if the information is still true at the moment of reporting it`,
   `They said they are running in the park -> they are still running in the park`,
   `Who were you talking to? | ¿Con quién estabas hablando?`,
+  `I like soul-crushing sarcasm as much as the next guy | Me gusta el sarcasmo aplastante tanto como al siguiente`,
+  `There's obviously only one way to settle this | Obviamente solo hay una forma de resolver esto`,
+  `I'll just have to settle for some tight white meat | Tendré que conformarme con algo de carne blanca`,
+  `He's not afraid to speak his mind, no matter the situation | No tiene miedo de decir lo que piensa, sin importar la situación`,
+  `Please speak up, I can't hear you | Por favor habla más alto, no puedo oírte`,
+  `She told the truth about what had really happened | Ella dijo la verdad sobre lo que realmente había pasado`,
+  `She decided to finally speak her mind, tell the truth, and say sorry for the misunderstanding | Ella decidió finalmente decir lo que pensaba, decir la verdad y pedir disculpas por el malentendido`,
+  `Then the thin thrifty thief went to the bathroom to hide beneath a thousand feathers | Entonces el delgado ladrón ahorrador fue al baño para esconderse debajo de mil plumas`,
+  `This is definitely not the experience that we want you to have | Definitivamente, esta no es la experiencia que queremos que tengas`,
+  `It looks like the delay was due to a shipping issue`,
+  `I would really love to get what I paid for | Realmente me encantaría obtener lo que pagué`,
+  `I'll arrange express delivery for you | Te organizaré la entrega exprés`,
+  `Once and for all | De una vez por todas`,
+  `Perhaps it's more along the lines of a misunderstanding | Tal vez sea más bien un malentendido`,
+  `I fixed some issues and the computer is up and running again`,
+  `Hinges are the things that allow doors to open and close | Las bisagras son las cosas que permiten que las puertas se abran y se cierren`,
 ]
 
 // Change the array to Set
