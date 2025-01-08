@@ -3364,6 +3364,18 @@ const phrases = [
   `Perhaps it's more along the lines of a misunderstanding | Tal vez sea más bien un malentendido`,
   `I fixed some issues and the computer is up and running again`,
   `Hinges are the things that allow doors to open and close | Las bisagras son las cosas que permiten que las puertas se abran y se cierren`,
+  `He said they had had their website up and running within two days | Dijo que habían tenido su sitio web funcionando en dos días`,
+  `She said they'd started off in their camper van | Dijo que habían comenzado en su furgoneta`,
+  `The item is sent out for delivery | El artículo se envía para su entrega`,
+  `I'll need to follow up with you once I have confirmation | Tendré que seguir con usted una vez que tenga confirmación`,
+  `follow up | Seguir con`,
+  `Can ypu help me sort this out? | ¿Puedes ayudarme a resolver esto?`,
+  `I'm so sorry about that mix-up | Lo siento mucho por ese error`,
+  `I place you on a brief hold | Te pongo en espera por un momento`,
+  `Thank you for holding, I appreciate your patience | Gracias por esperar, aprecio su paciencia`,
+  `Would you mind being on hold for a moment? | ¿Te importaría esperar un momento?`,
+  `She was like, "You never respond to my texts" and I went, "I respond when I can": informal, spoken language`,
+  `She said she'd seen me active on social media and I said I had other things to do: formal, written language`,
 ]
 
 // Change the array to Set
