@@ -3376,6 +3376,15 @@ const phrases = [
   `Would you mind being on hold for a moment? | ¿Te importaría esperar un momento?`,
   `She was like, "You never respond to my texts" and I went, "I respond when I can": informal, spoken language`,
   `She said she'd seen me active on social media and I said I had other things to do: formal, written language`,
+  `I'll truly understand the plight of the common | Entenderé verdaderamente la situación de los comunes`,
+  `I'm a mutant being, and I demand to know where I am | Soy un ser mutante, y exijo saber dónde estoy`,
+  `I said I couldn't go because I needed to get up early to catch a plane`,
+  `Where all kinds of people gather | Donde se reúnen todo tipo de personas`,
+  `It might be a good place to start a day of sightseeing | Podría ser un buen lugar para comenzar un día de turismo`,
+  `As a gesture of goodwill | Como un gesto de buena voluntad`,
+  `Hesitate to reach out | Duda en comunicarte`,
+  `We sorted this out | Resolvimos esto`,
+  `Thank you for your patience while we sorted this out | Gracias por su paciencia mientras resolvíamos esto`,
 ]
 
 // Change the array to Set
