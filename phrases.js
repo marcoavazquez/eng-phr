@@ -3385,6 +3385,17 @@ const phrases = [
   `Hesitate to reach out | Duda en comunicarte`,
   `We sorted this out | Resolvimos esto`,
   `Thank you for your patience while we sorted this out | Gracias por su paciencia mientras resolvíamos esto`,
+  `It can aid in maintaining performance by enforcing efficient patterns | Puede ayudar a mantener el rendimiento al hacer cumplir patrones eficientes`,
+  `I didn't make her quit, I just made her think about it | No la hice renunciar, solo la hice pensar en ello`,
+  `I didn't make him up | No lo inventé`,
+  `I couldn't tell the twins apart | No podía distinguir a los gemelos`,
+  `The twin brothers look exactly alike | Los hermanos gemelos se parecen exactamente`,
+  `I can't take this anymore | No puedo soportar esto más`,
+  `I hear your son likes to beat up on people | He oído que a tu hijo le gusta golpear a la gente`,
+  `It's not like it's a matter of life and death | No es como si fuera una cuestión de vida o muerte`,
+  `If you ever need anything at all, don't hesitate to reach out | Si alguna vez necesitas algo, no dudes en comunicarte`,
+  `why I bother trying to impress your family anymore | por qué sigo intentando impresionar a tu familia`,
+  `It's not supposed to be like this | No se supone que sea así`,
 ]
 
 // Change the array to Set
