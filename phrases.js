@@ -3396,6 +3396,13 @@ const phrases = [
   `If you ever need anything at all, don't hesitate to reach out | Si alguna vez necesitas algo, no dudes en comunicarte`,
   `why I bother trying to impress your family anymore | por qué sigo intentando impresionar a tu familia`,
   `It's not supposed to be like this | No se supone que sea así`,
+  `You're being sacrified so that blob may live | Estás siendo sacrificado para que esa masa pueda vivir`,
+  `We're being smeared by an unstable health inspector | Estamos siendo difamados por un inspector de salud inestable`,
+  `I know when I'm being lied to | Sé cuándo me están mintiendo`,
+  `It's being wasted on the wasted | Se está desperdiciando en los desperdiciados`,
+  `I work fewer hours than you do | Trabajo menos horas que tú`,
+  `She reads fewer books than I do | Ella lee menos libros que yo`,
+  `There are fewer women than men in the company | Hay menos mujeres que hombres en la empresa`,
 ]
 
 // Change the array to Set
