@@ -3403,6 +3403,15 @@ const phrases = [
   `I work fewer hours than you do | Trabajo menos horas que tú`,
   `She reads fewer books than I do | Ella lee menos libros que yo`,
   `There are fewer women than men in the company | Hay menos mujeres que hombres en la empresa`,
+  `Tom offered to tutor me, and I think I might take him up on it | Tom se ofreció a darme clases particulares, y creo que podría aceptar`,
+  `I'd like to, but it's pretty far | Me gustaría, pero está bastante lejos`,
+  `I can drive us there | Puedo llevarnos allí`,
+  `I would totally take you up on that | Definitivamente te aceptaría eso`,
+  `I can pick you up around 10 on Saturday | Puedo recogerte alrededor de las 10 el sábado`,
+  `Housing refers to the buildings where people live | La vivienda se refiere a los edificios donde vive la gente`,
+  `The verb "to assist" in "Can you assist me?" is a more formal equivalent of "to help" `,
+  `Would you mind helping me out? | ¿Te importaría ayudarme?`,
+  `Make milk come through your nose | haz que la leche salga por la nariz`,
 ]
 
 // Change the array to Set
