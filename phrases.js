@@ -3433,6 +3433,14 @@ const phrases = [
   `threw together out of | Hago algo a partir de`,
   `I checked through all my pockets | Revisé todos mis bolsillos`,
   `I have to turn this essay in by tomorrow | Tengo que entregar este ensayo mañana`,
+  `Besides, I can't afford to close the shop | Además, no puedo permitirme cerrar la tienda`,
+  `I guess you could sleep in the basement | Supongo que podrías dormir en el sótano`,
+  `Put your little step stool back here | Pon tu pequeño taburete aquí atrás`,
+  `you could afford to pay your workers more | podrías permitirte pagarles más a tus trabajadores`,
+  `Better safe than sorry | Más vale prevenir que lamentar`,
+  `I'm pretty much ready to go | Estoy prácticamente listo para irme`,
+  `I want to run through it a few more times | Quiero repasarlo unas cuantas veces más`,
+  `Looks like we should be good for tommorrow then | Parece que deberíamos estar bien para mañana entonces`,
 ]
 
 // Change the array to Set
