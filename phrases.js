@@ -3441,6 +3441,11 @@ const phrases = [
   `I'm pretty much ready to go | Estoy prácticamente listo para irme`,
   `I want to run through it a few more times | Quiero repasarlo unas cuantas veces más`,
   `Looks like we should be good for tommorrow then | Parece que deberíamos estar bien para mañana entonces`,
+  `You go up and act as a decoy and lure him away | Subes y actúas como señuelo y lo alejas/atraes?`,
+  `As we go into the home stretch | A medida que entramos en la recta final`,
+  `Listen to that crowd roar as the Gorillas go up to bat again | Escucha cómo ruge la multitud mientras los Gorilas vuelven a batear`,
+  `This call for strategy and teamwork | Esto requiere estrategia y trabajo en equipo`,
+  `and now the kid goes into his finale | y ahora el chico entra en su final`,
 ]
 
 // Change the array to Set
