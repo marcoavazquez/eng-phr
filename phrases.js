@@ -3470,6 +3470,21 @@ const phrases = [
   `That great army is doubtless on its way here already | Ese gran ejército está sin duda en camino aquí ya`,
   `Our market research also suggest that many tourists would be interested in going into and touring an active lighthouse | Nuestra investigación de mercado también sugiere que a muchos turistas les interesaría entrar y recorrer un faro activo`,
   `Enough for leftovers | Suficiente para sobras`,
+  `He must train a minimum of three times a day`,
+  `You must be cold | Debes tener frío`,
+  `He made enough couscous for leftovers tomorrow | Hizo suficiente cuscús para sobras mañana`,
+  `I'm really bad at planning ahead | Soy realmente malo para planificar`,
+  `be less wasteful | ser menos derrochador`,
+  `Do you want me to bring you back anything? | ¿Quieres que te lleve algo de vuelta?`,
+  `I'm kind of tired | Estoy un poco cansado`,
+  `I was yelling at the tv because it's broken | Estaba gritando a la televisión porque está rota`,
+  `If it's not too much trouble | Si no es mucha molestia`,
+  `Don't yell at other drivers | No grites a otros conductores`,
+  `This has gone far enough | Esto ha ido demasiado lejos`,
+  `Thanks for being honest enough to bring them back | Gracias por ser lo suficientemente honesto como para devolverlos`,
+  `Have you had trouble sleeping lately? | ¿Has tenido problemas para dormir últimamente?`,
+  `Choose two words we can leave out | Elige dos palabras que podamos eliminar`,
+  `State-of-the-art technology: The most advance and modern technology available | Tecnología de vanguardia`,
 ]
 
 // Change the array to Set
