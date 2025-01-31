@@ -3503,6 +3503,13 @@ const phrases = [
   `This one is tricky | Este es difícil`,
   `Aside from sports | Además de los deportes`,
   `What sort of activities do people do to stay fit? | ¿Qué tipo de actividades realizan las personas para mantenerse en forma?`,
+  `Give me a call if you need anything | Llámame si necesitas algo`,
+  `Hit me up for dinner this week | Contactame para cenar esta semana`,
+  `Ping me if you need help with the project: contacting someone electronically via messaging or email | Me avisan si necesitas ayuda con el proyecto`,
+  `Ping me if you hear back from the client | Me avisan si reciben una respuesta del cliente`,
+  `Reach out when you're free for a coffee | Contactame cuando estés libre para tomar un café`,
+  `Reach out to plan our next hiking trip | Contacta para planear nuestro próximo viaje de senderismo`,
+  `Counterfeit goods are illegal | Las mercancías falsificadas son ilegales`,
 ]
 
 // Change the array to Set
