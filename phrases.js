@@ -3510,6 +3510,10 @@ const phrases = [
   `Reach out when you're free for a coffee | Contactame cuando estés libre para tomar un café`,
   `Reach out to plan our next hiking trip | Contacta para planear nuestro próximo viaje de senderismo`,
   `Counterfeit goods are illegal | Las mercancías falsificadas son ilegales`,
+  `In situations where computed properties are not feasible | En situaciones en las que las propiedades computadas no son factibles`,
+  `It can be cumbersome to manually wire up a lot of properties | Puede ser engorroso configurar manualmente muchas propiedades`,
+  `This makes it easy to create tightly coupled implementation details between the parent and the child | Esto facilita la creación de detalles de implementación estrechamente acoplados entre el padre y el hijo`,
+  `Performs as intended: when software works correctly and meets its intended purpose`,
 ]
 
 // Change the array to Set
