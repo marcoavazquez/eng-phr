@@ -3687,6 +3687,23 @@ const phrases = [
   `Break a leg: Good luck | ¡Que te vaya bien!`,
   `In the nick of time: Just in time | A tiempo`,
   `We were awarded the contract in the nick of time | Nos otorgaron el contrato a tiempo`,
+  `Do you have set plans for the future, or do you take life as it comes?`,
+  `What will I be doing in 10 years' time?`,
+  `Will I be happy with the choices I am making now?`,
+  `What will I have achieved by the time I reach 90?`,
+  `...and who make decisions based on their present selves | ...y que toman decisiones basadas en sus propios presentes`,
+  `I have planned my transformation for the next few years`,
+  `I am happy to adapt depending on what unfolds in my life | Estoy feliz de adaptarme dependiendo de lo que suceda en mi vida`,
+  `I alter my lives and routines to make my visions come true`,
+  `The career path we choose to follow will have an impact on how our life evolves | La carrera que elegimos seguir tendrá un impacto en cómo evoluciona nuestra vida`,
+  `We use the work "to evolve" to talk about how something or someone changes over time`,
+  `I don't think I have any control over how my life evolves`,
+  `We can all work towards a transformation if we want to | Podemos todos trabajar hacia una transformación si lo deseamos`,
+  `Why don't I take you out to lunch? My treat | ¿Por qué no te invito a comer? Yo invito`,
+  `An undergraduate degree is a four-year degree | Un grado universitario es un grado de cuatro años`,
+  `Do you have breakout rooms? | ¿Tienen salas de reuniones?`,
+  `I imagine you can provide catering throughout | Imagino que pueden proporcionar catering a lo largo del evento`,
+  `From now on, everyone will use the same resources | A partir de ahora, todos usarán los mismos recursos`,
 ]
 
 // Change the array to Set
