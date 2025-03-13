@@ -3704,6 +3704,11 @@ const phrases = [
   `Do you have breakout rooms? | ¿Tienen salas de reuniones?`,
   `I imagine you can provide catering throughout | Imagino que pueden proporcionar catering a lo largo del evento`,
   `From now on, everyone will use the same resources | A partir de ahora, todos usarán los mismos recursos`,
+  `By 9pm I will have been working or 2 hours`,
+  `On Saturday, my parents will have been staying with us for 3 days: We use the future perfect continuous to focus on the duration of an action before a specific time in the future`,
+  `Next week, I will have been working on my book for a year`,
+  `That time has gone so quickly | Ha pasado tan rápido`,
+  `Will you have been working for your school for the same amount of time?`,
 ]
 
 // Change the array to Set
