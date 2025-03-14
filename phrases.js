@@ -3709,6 +3709,13 @@ const phrases = [
   `Next week, I will have been working on my book for a year`,
   `That time has gone so quickly | Ha pasado tan rápido`,
   `Will you have been working for your school for the same amount of time?`,
+  `They would've picked me up by now | Ya me habrían recogido`,
+  `I really wish you'd have given him a change | Ojalá le hubieras dado una oportunidad a él`,
+  `I would have done it if I'd known | Si lo hubiera sabido, lo habría hecho`,
+  `You and I would have already gone our separate ways | Ya nos habríamos ido por separado`,
+  `Do you ever think about what you'll have achieved by the time you retire? | ¿Alguna vez te has preguntado qué habrás logrado cuando te jubiles?`,
+  `I don't have any plans for this time next year | No tengo planes para este próximo año`,
+  `Perhaps not, but it's good to envision the life you want. Then you can alter things now to help you achieve it | Tal vez no, pero es bueno imaginar la vida que quieres. Luego puedes alterar las cosas ahora para ayudarte a lograrlo`,
 ]
 
 // Change the array to Set
