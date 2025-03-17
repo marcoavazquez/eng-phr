@@ -3,20 +3,32 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>P v2</title>
+  <link rel="stylesheet" href="./v2.css?v=0.1">
+  <script src="./phrases.js?d=20240810"></script>
+  <script src="./v2.js?v=0.1"></script>
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+  <title>Read</title>
 </head>
 <body>
   <main>
     <form id="search-form">
       <input type="search" name="search" placeholder="Search">
+      <button type="submit">🔍</button>
     </form>
     <nav>
-      <button>First</button>
-      <button>Prev</button>
-      <button>Next</button>
-      <button>Last</button>
+      <button id="btn-first">First</button>
+      <button id="btn-prev">Prev</button>
+      <button id="btn-speak">🔊</button>
+      <button id="btn-next">Next</button>
+      <button id="btn-last">Last</button>
     </nav>
-    <ul class="phrases" id="list"></ul>
+    <div>
+      <small id="counter">0/0</small>
+      <div id="phrase">
+        Loading...
+      </div>
+      <small id="translation">Cargando...</small>
+    </div>
   </main>
 </body>
 </html>
