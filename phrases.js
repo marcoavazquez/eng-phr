@@ -3716,6 +3716,16 @@ const phrases = [
   `Do you ever think about what you'll have achieved by the time you retire? | ¿Alguna vez te has preguntado qué habrás logrado cuando te jubiles?`,
   `I don't have any plans for this time next year | No tengo planes para este próximo año`,
   `Perhaps not, but it's good to envision the life you want. Then you can alter things now to help you achieve it | Tal vez no, pero es bueno imaginar la vida que quieres. Luego puedes alterar las cosas ahora para ayudarte a lograrlo`,
+  `Fix you anything you'd like for breakfast | Te preparo cualquier desayuno que quieras`,
+  `Here's to a new taste treat | ¡Salud a un nuevo sabor!`,
+  `I thought you were supposed to be fixing that door | Pensé que estabas arreglando esa puerta`,
+  `I won't have eaten by the time you get back | No habré comido cuando vuelvas`,
+  `It's about time we had some sophistication on this show | Ya era hora de que tuviéramos algo de sofisticación en este programa`,
+  `Ten feet in the air | a 10 pies de altura`,
+  `I actually binged a few films last week: We use "to binge..." when we do an activity excessively`,
+  `"Bingeing..." is often associated with consuming things quickly, such as films, food and alcohol`,
+  `I often binge on chocolate when I'm feeling down | A menudo me obsesiono con el chocolate cuando estoy deprimido`,
+  `It's got a good storyline actually (movie) | Tiene una buena historia de hecho`,
 ]
 
 // Change the array to Set
