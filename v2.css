@@ -15,17 +15,19 @@ main {
 nav {
   display: flex;
   justify-content: space-between;
-  overflow: hidden;
   border-radius: 3rem;
   border: 1px solid #111;
+  overflow: hidden;
   margin-top: 2rem;
 }
 nav button {
-  width: 100%;
-  padding: 1rem;
-  background-color: transparent;
   color: #ABC;
+  background-color: transparent;
+  text-transform: uppercase;
+  font-size: 12px;
   border: none;
+  padding: 0.75rem 1rem;
+  width: 100%;
   box-shadow: 0.1rem 0.1rem 0.25rem rgb(255 255 255 / 0.1) inset;
   transition: 0.25s ease-in-out all;
 }
@@ -34,19 +36,22 @@ nav button:hover {
 }
 form {
   display: flex;
+  border: 1px solid #333;
+  border-radius: 1rem;
+  overflow: hidden;
 }
 form button {
   background-color: #111;
   border-color: transparent;
-  width: 2.5rem;
+  width: 3rem;
 }
 input {
-  background-color: #000;
-  width: 100%;
-  padding: 0.5rem;
   color: #ccc;
-  border: 1px solid #222;
+  background-color: #000;
   flex: 1;
+  border: none;
+  width: 100%;
+  padding: 0.75rem 1rem;
 }
 
 #phrase {
@@ -62,8 +67,8 @@ input {
 
 #counter {
   color: #666;
-  font-size: 12px;
   display: inline-block;
+  font-size: 12px;
   text-align: right;
   width: 100%;
 }
