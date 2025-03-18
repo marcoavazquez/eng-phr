@@ -35,7 +35,7 @@ window.addEventListener('load', function () {
   }
 
   function setCounter () {
-    counter.textContent = currentIndex + 1 + ' / ' + list.length
+    counter.textContent = currentIndex + 1 + '/' + list.length
   }
 
   speakBtn.addEventListener('click', function () {
