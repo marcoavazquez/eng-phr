@@ -3726,6 +3726,8 @@ const phrases = [
   `"Bingeing..." is often associated with consuming things quickly, such as films, food and alcohol`,
   `I often binge on chocolate when I'm feeling down | A menudo me obsesiono con el chocolate cuando estoy deprimido`,
   `It's got a good storyline actually (movie) | Tiene una buena historia de hecho`,
+  `She arrived home very tired, as she had been out all day | Llegó a casa muy cansada, ya que había estado fuera todo el día`,
+  `It started to rain, but I'd already been for a run | Empezó a llover, pero ya había hecho una carrera`,
 ]
 
 // Change the array to Set
