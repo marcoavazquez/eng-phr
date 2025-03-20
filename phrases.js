@@ -3728,6 +3728,17 @@ const phrases = [
   `It's got a good storyline actually (movie) | Tiene una buena historia de hecho`,
   `She arrived home very tired, as she had been out all day | Llegó a casa muy cansada, ya que había estado fuera todo el día`,
   `It started to rain, but I'd already been for a run | Empezó a llover, pero ya había hecho una carrera`,
+  `I assume you went to see the king | Supongo que fuiste a ver al rey`,
+  `Long enough to work on that project | Lo suficiente para trabajar en ese proyecto`,
+  `I'm afraid that's going to leave a mark`,
+  `They don't get to attack us and run without a fight | No pueden atacarnos y huir sin pelear`,
+  `It'll be a while before anyone from there can get to them | Será un tiempo antes de que alguien de allí pueda llegar a ellos`,
+  `gory: violent and bloody; eerie: strange and/or creepy; slow-paced: developing gradually`,
+  `We use a little horizontal sign called a hyphen (-) to combine an adjetive and verb when they come before a noun, if they come after the noun, there is no hyphen`,
+  `I hate slow-paced horror movies - This film is slow paced`,
+  `She thinks it's a well-made series - She thinks that the series is well made`,
+  `I'm that kinda person that really likes something like frightening that needs to get me like out of the blue | Soy esa persona que realmente le gusta algo como asustador que necesita algo inesperado`,
+  `If something happens "out of the blue", it happens very unexpectedly: The idea for the movie came to me out of the blue | La idea de la película me llegó de repente`,
 ]
 
 // Change the array to Set
