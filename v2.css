@@ -72,3 +72,17 @@ input {
   text-align: right;
   width: 100%;
 }
+
+.current {
+  border-width: 1px 0;
+  border-style: solid;
+  border-color: #333;
+}
+
+.previous, .next {
+  opacity: 0.3;
+  padding: 1rem 0;
+  > div {
+    padding: 0.5rem 0;
+  }
+}

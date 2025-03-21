@@ -9,6 +9,10 @@ window.addEventListener('load', function () {
   const counter = document.querySelector('#counter')
   const form = document.querySelector('form')
   const searchInput = document.querySelector('form input[type=search]')
+  const prevPhrases = document.querySelector('#prev-phrase')
+  const prevTranslation = document.querySelector('#prev-translation')
+  const nextPhrases = document.querySelector('#next-phrase')
+  const nextTranslation = document.querySelector('#next-translation')
 
   const searchParams = new URLSearchParams(this.location.search)
   const searchParam = searchParams.get('search')
@@ -32,6 +36,13 @@ window.addEventListener('load', function () {
     phraseContainer.textContent = currentEnglish = english
     translationContainer.textContent = spanish
     setCounter()
+
+    const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']
+    prevPhrases.textContent = prevEnglish
+    prevTranslation.textContent = prevSpanish
+    const [nextEnglish, nextSpanish] = list[currentIndex + 1] ? list[currentIndex + 1].split('|') : ['','']
+    nextPhrases.textContent = nextEnglish
+    nextTranslation.textContent = nextSpanish
   }
 
   function setCounter () {
