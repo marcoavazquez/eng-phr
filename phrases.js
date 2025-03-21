@@ -3739,6 +3739,12 @@ const phrases = [
   `She thinks it's a well-made series - She thinks that the series is well made`,
   `I'm that kinda person that really likes something like frightening that needs to get me like out of the blue | Soy esa persona que realmente le gusta algo como asustador que necesita algo inesperado`,
   `If something happens "out of the blue", it happens very unexpectedly: The idea for the movie came to me out of the blue | La idea de la película me llegó de repente`,
+  `Whilst looking after the children, I got a call from my boss | Mientras cuidaba de los niños, me llamó mi jefe`,
+  `"Bring up" is often used in professional settings when you want to introduce a new idea or topic during a meeting or conversation`,
+  `During the meeting, I will bring up my proposal for the new project | Durante la reunión, presentaré mi propuesta para el nuevo proyecto`,
+  `I decided to take on the leadership role for the project | Decidí asumir el rol de liderazgo para el proyecto`,
+  `I will follow with the client next week to see if they have any questions | Seguiré con el cliente la próxima semana para ver si tienen alguna pregunta`,
+  `"Follow up" means checking back on something we've already discussed or done`,
 ]
 
 // Change the array to Set
