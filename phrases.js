@@ -3792,6 +3792,19 @@ const phrases = [
   `The prosecution have indicated they would no longer go ahead with the charges against you | La fiscalía ha indicado que no seguirá adelante con los cargos contra ti`,
   `I could feel the warm glow from the sun on my tired, weathered face | Podía sentir el calor del sol en mi cara cansada y desgastada`,
   `It has been reported that the police have been called to the scene | Se ha informado de que la policía ha sido llamada al lugar`,
+  `I feed it to my grandma to keep her sick so I can take care of her | Se lo doy a mi abuela para mantenerla enferma y así pueda cuidar de ella`,
+  `You can just see everything is wobbling on these things | Puedes ver que todo está temblando en estas cosas`,
+  `Basically, my favourite heores in movies or books are those that I can, you know, identify with. They have to have human issues, otherwise I can't connect with them`,
+  `It's like living in a tiny apartment with just enough room for you and your stuff | Es como vivir en un apartamento pequeño con solo espacio para ti y tus cosas`,
+  `They will spend the five and a half years of their voyage in a small, cramped space | Pasarán los cinco años y medio de su viaje en un espacio pequeño y estrecho`,
+  `Still in their total backout of suspended animation, the company has not commented on the matter | Aún en su total retiro de la animación suspendida, la compañía no ha comentado sobre el asunto`,
+  `Because you said you weren't good at anything`,
+  `I wasn't scared at all | No me asusté en absoluto`,
+  `You weren't willing to risk the future of the citizens of the world | No estabas dispuesto a arriesgar el futuro de los ciudadanos del mundo`,
+  `Nothing less from my own daughter | Nada menos de mi propia hija`,
+  `Odds and ends, a few things you might like | Cosas raras, unas cuantas cosas que te pueden gustar`,
+  `I have a few pointers for you | Tengo algunos consejos para ti`,
+  `We try to understand the user's journey and how easy it is for them to accomplish their goals | Intentamos entender la ruta del usuario y lo fácil que es para ellos lograr sus objetivos`,
 ]
 
 // Change the array to Set

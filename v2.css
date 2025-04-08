@@ -76,13 +76,24 @@ input {
 .current {
   border-width: 1px 0;
   border-style: solid;
-  border-color: #333;
+  border-color: #111;
 }
 
 .previous, .next {
-  opacity: 0.3;
+  color: #666;
   padding: 1rem 0;
+  font-size: 60%;
   > div {
     padding: 0.5rem 0;
   }
+}
+.previous {
+  transform: rotateX(20deg);
+  background-image: linear-gradient(0deg, #111, #000);
+  border-radius: 1rem 1rem 0 0;
+}
+.next {
+  transform: rotateX(-20deg);
+  background-image: linear-gradient(0deg, #000, #111);
+  border-radius: 0 0 1rem 1rem;
 }
