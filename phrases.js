@@ -3805,6 +3805,10 @@ const phrases = [
   `Odds and ends, a few things you might like | Cosas raras, unas cuantas cosas que te pueden gustar`,
   `I have a few pointers for you | Tengo algunos consejos para ti`,
   `We try to understand the user's journey and how easy it is for them to accomplish their goals | Intentamos entender la ruta del usuario y lo fácil que es para ellos lograr sus objetivos`,
+  `allow me to introduce myself`,
+  `...and so on and so forth | ...y así sucesivamente`,
+  `any change to them would require tracing those chains back and forth to make sure the reference is not lost in between | cualquier cambio en ellos requeriría rastrear esas cadenas hacia atrás y hacia adelante para asegurarse de que la referencia no se pierde entre las dos`,
+  `That is three out of three for the Compiler so far | Eso es tres de tres para el compilador hasta ahora`,
 ]
 
 // Change the array to Set
