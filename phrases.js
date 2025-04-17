@@ -3845,6 +3845,15 @@ const phrases = [
   `She must be able to pay on the app | Debe poder pagar en la aplicación`,
   `She must have been able to pay on the app | Debe haber podido pagar en la aplicación`,
   `A software is perfected by evolving existing features because of new requirements | Un software se perfecciona evolucionando las características existentes debido a nuevos requisitos`,
+  `He must be scheming something | Debe estar planeando algo`,
+  `They use this information to target ads at you | Usan esta información para dirigirte anuncios`,
+  `Where you tend to go to the most | A donde tiendes a ir más`,
+  `I assume it can track which restaurants I tend to go to | Supongo que puede rastrear qué restaurantes suelo ir`,
+  `It uses data to classify you interests, whilst also determining who else you might know | Utiliza datos para clasificar tus intereses, mientras determina quién más podrías conocer`,
+  `Why don't you talk me through you plan? | ¿Por qué no me hablas de tu plan?`,
+  `adjust a few things because of compliance | ajustar algunas cosas debido a la conformidad`,
+  `No biggie! | ¡No hay problema!`,
+  `The sales team has asked for an automated quotation tool | El equipo de ventas ha pedido una herramienta de cotización automatizada`,
 ]
 
 // Change the array to Set
