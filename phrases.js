@@ -3854,6 +3854,8 @@ const phrases = [
   `adjust a few things because of compliance | ajustar algunas cosas debido a la conformidad`,
   `No biggie! | ¡No hay problema!`,
   `The sales team has asked for an automated quotation tool | El equipo de ventas ha pedido una herramienta de cotización automatizada`,
+  `Which leads me to believe I've been losing my mind | Lo que me lleva a creer que he perdido la cabeza`,
+  `After the crap she pulled in the last episode, there's no way in hell | Después de la mierda que hizo en el último episodio, no hay manera de que...`,
 ]
 
 // Change the array to Set
