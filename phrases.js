@@ -3856,6 +3856,9 @@ const phrases = [
   `The sales team has asked for an automated quotation tool | El equipo de ventas ha pedido una herramienta de cotización automatizada`,
   `Which leads me to believe I've been losing my mind | Lo que me lleva a creer que he perdido la cabeza`,
   `After the crap she pulled in the last episode, there's no way in hell | Después de la mierda que hizo en el último episodio, no hay manera de que...`,
+  `It's not like I'm asking you to sleep in my bed | No es como si te estuviera pidiendo que te acostaras en mi cama`,
+  `You ever believe in anything? | ¿Alguna vez creíste en algo?`,
+  `You actually had me believing in miracles | En realidad me hiciste creer en milagros`,
 ]
 
 // Change the array to Set
