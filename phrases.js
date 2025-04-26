@@ -3859,6 +3859,10 @@ const phrases = [
   `It's not like I'm asking you to sleep in my bed | No es como si te estuviera pidiendo que te acostaras en mi cama`,
   `You ever believe in anything? | ¿Alguna vez creíste en algo?`,
   `You actually had me believing in miracles | En realidad me hiciste creer en milagros`,
+  `A tale of a fateful trip | Un cuento de un viaje fatídico`,
+  `They have been marooned | Han sido abandonados`,
+  `Are you pondering what I'm pondering? | ¿Estás pensando lo que yo estoy pensando?`,
+  `You were just about to hand over the money | Estabas a punto de entregar el dinero`,
 ]
 
 // Change the array to Set

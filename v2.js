@@ -35,7 +35,7 @@ window.addEventListener('load', function () {
     const [english, spanish] = list[currentIndex].split('|')
     phraseContainer.textContent = currentEnglish = english
     translationContainer.textContent = spanish
-    setCounter()
+    // setCounter()
 
     const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']
     prevPhrases.textContent = prevEnglish
