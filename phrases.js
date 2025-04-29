@@ -3863,6 +3863,16 @@ const phrases = [
   `They have been marooned | Han sido abandonados`,
   `Are you pondering what I'm pondering? | ¿Estás pensando lo que yo estoy pensando?`,
   `You were just about to hand over the money | Estabas a punto de entregar el dinero`,
+  `More than a few of our comrades are going to die today trying to pull this off | Más de algunos de nuestros compañeros morirán hoy tratando de lograr esto`,
+  `Compared to the vast tracts of former glory long abandoned | Comparado con las vastas extensiones de gloria pasada que fueron abandonadas durante mucho tiempo`,
+  `Bring it on you little bastard | Traelo, pequeño bastardo`,
+  `As his comrades fall by the dozens | A medida que sus compañeros caen por docenas`,
+  `The odds are against us | Las probabilidades están en nuestra contra`,
+  `The odds are in our favor | Las probabilidades están a nuestro favor`,
+  `The odds are even | Las probabilidades son iguales`,
+  `The odds are stacked against us | Las probabilidades están en nuestra contra`,
+  `The odds are stacked in our favor | Las probabilidades están a nuestro favor`,
+  `Untold numbers of our brave comrades and arms are laying down their lives | Cantidades incalculables de nuestros valientes compañeros y armas están sacrificando sus vidas`,
 ]
 
 // Change the array to Set
