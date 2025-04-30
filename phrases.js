@@ -3873,6 +3873,9 @@ const phrases = [
   `The odds are stacked against us | Las probabilidades están en nuestra contra`,
   `The odds are stacked in our favor | Las probabilidades están a nuestro favor`,
   `Untold numbers of our brave comrades and arms are laying down their lives | Cantidades incalculables de nuestros valientes compañeros y armas están sacrificando sus vidas`,
+  `The best is yet to come | Lo mejor aún está por venir`,
+  `we'll never make it aboard with them on our heels | nunca lo lograremos con ellos en nuestros talones`,
+  `Did we make it out? | ¿Salimos?`,
 ]
 
 // Change the array to Set
