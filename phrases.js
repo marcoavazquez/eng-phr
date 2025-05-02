@@ -3876,6 +3876,11 @@ const phrases = [
   `The best is yet to come | Lo mejor aún está por venir`,
   `we'll never make it aboard with them on our heels | nunca lo lograremos con ellos en nuestros talones`,
   `Did we make it out? | ¿Salimos?`,
+  `What does it take to be a good project manager? | ¿Qué se necesita para ser un buen project manager?`,
+  `Any other aspects worth mentioning at the planning stage? | ¿Hay otros aspectos que merezcan mencionarse en la etapa de planificación?`,
+  `Clear budgeting is also very important | El presupuesto claro también es muy importante`,
+  `to allocate resources | asignar recursos`,
+  `I'm generally risk-averse | Soy generalmente aversivo al riesgo`,
 ]
 
 // Change the array to Set
