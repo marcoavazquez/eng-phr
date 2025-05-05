@@ -3881,6 +3881,19 @@ const phrases = [
   `Clear budgeting is also very important | El presupuesto claro también es muy importante`,
   `to allocate resources | asignar recursos`,
   `I'm generally risk-averse | Soy generalmente aversivo al riesgo`,
+  `Tried to make it through the end of civilization with guns and spikes? | Intenté llegar al final de la civilización con armas y picos?`,
+  `I don't think I can make it through the day | No creo que pueda soportar el día`,
+  `They would more likely end us for revealing their past mistakes | Más probablemente nos acabarían por revelar sus errores del pasado`,
+  `As the years passed, the world changed | A medida que pasaron los años, el mundo cambió`,
+  `Two cowards who voted to pass our terrible burden to the next generation | Dos cobardes que votaron para pasar nuestra terrible carga a la siguiente generación`,
+  `There is nothing I hate more than waiting in line | No hay nada que odie más que esperar en la fila`,
+  `Go wait in line so I never have to | Ve a esperar en la fila para que nunca tenga que hacerlo`,
+  `In reinforced learning, a machine's desirable actions are rewarded while the undesirable ones are penalized | En el aprendizaje reforzado, las acciones deseables de una máquina son recompensadas mientras que las indeseables son penalizadas`,
+  `That's when an AI system reaches a conclusion based on existing data that's been labelled | Es cuando un sistema de IA llega a una conclusión basada en datos existentes que han sido etiquetados`,
+  `Computer's ability to tell cats apart from dogs in a set of images | La capacidad de una computadora para distinguir entre gatos y perros en un conjunto de imágenes`,
+  `What's unsupervised learning then? | ¿Qué es el aprendizaje no supervisado entonces?`,
+  `That's when algorithms can infer patterns from datasets which aren't labelled | Es cuando los algoritmos pueden inferir patrones de conjuntos de datos que no están etiquetados`,
+  `we judge a person by what's inside them, not by what they wear | juzgamos a una persona por lo que hay dentro de ellos, no por lo que llevan`,
 ]
 
 // Change the array to Set
