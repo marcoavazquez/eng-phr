@@ -3894,6 +3894,7 @@ const phrases = [
   `What's unsupervised learning then? | ¿Qué es el aprendizaje no supervisado entonces?`,
   `That's when algorithms can infer patterns from datasets which aren't labelled | Es cuando los algoritmos pueden inferir patrones de conjuntos de datos que no están etiquetados`,
   `we judge a person by what's inside them, not by what they wear | juzgamos a una persona por lo que hay dentro de ellos, no por lo que llevan`,
+  `She might come back out of hiding and give us some answers | Ella podría salir de su escondite y darnos algunas respuestas`,
 ]
 
 // Change the array to Set
