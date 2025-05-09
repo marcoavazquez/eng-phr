@@ -3913,6 +3913,10 @@ const phrases = [
   `It felt strange at first | Primero se sintió extraño`,
   `I ended up really linking it | Terminé realmente gustando de ello`,
   `I'm sure it will take some getting used to | Estoy seguro de que tomará un tiempo acostumbrarse`,
+  `It shall help you on your journey | Te ayudará en tu viaje`,
+  `I should have known you looked down on us | Debería haber sabido que me mirabas con desdén`,
+  `It can stick with you for life | Puede quedarse contigo para siempre`,
+  `This project uses such unique imagery  | Este proyecto utiliza una imagen tan única`,
 ]
 
 // Change the array to Set
