@@ -3917,6 +3917,12 @@ const phrases = [
   `I should have known you looked down on us | Debería haber sabido que me mirabas con desdén`,
   `It can stick with you for life | Puede quedarse contigo para siempre`,
   `This project uses such unique imagery  | Este proyecto utiliza una imagen tan única`,
+  `I caught up to her at the end of the race | La alcancé al final de la carrera`,
+  `I missed a week of work, and now I need to catch up | Me perdí una semana de trabajo y ahora necesito ponerme al día`,
+  `All the drinking caught up with him, and he started having health problems | Todo el beber lo alcanzó y comenzó a tener problemas de salud`,
+  `She made up the classes that she had missed | Hizo las clases que había perdido`,
+  `Does it focus on a certain genre of painting or what? | ¿Se centra en un cierto género de pintura o qué?`,
+  `We need to rule out diabetes first | Primero tenemos que descartar la diabetes`,
+  `The doctor ruled out cancer after the test | El doctor descartó el cáncer después del examen`,
+  `We can't rule out the possibility of a mistake | No podemos descartar la posibilidad de un error`,
 ]
-
-// Change the array to Set
