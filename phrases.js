@@ -3925,4 +3925,9 @@ const phrases = [
   `We need to rule out diabetes first | Primero tenemos que descartar la diabetes`,
   `The doctor ruled out cancer after the test | El doctor descartó el cáncer después del examen`,
   `We can't rule out the possibility of a mistake | No podemos descartar la posibilidad de un error`,
+  `You but turns out my voice doesn't matter | Pero resulta que mi voz no importa`,
+  `Please stand to one side to let faster pilgrims by | Por favor, quítate a un lado para que los peregrinos más rápidos pasen`,
+  `We're closing in on the very smallest particles of matter | Estamos acercándonos a las partículas más pequeñas de la materia`,
+  `I just couldn't stand to have you think I was ashamed of you | No podía soportar que pensaras que estaba avergonzado de ti`,
+  `We are facing foreclousure on our home | Estamos a punto de perder nuestra casa`,
 ]
