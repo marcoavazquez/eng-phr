@@ -3940,4 +3940,8 @@ const phrases = [
   `Tax rates influence when to exercise your option | Las tasas de impuestos influyen en cuándo ejercer tu opción`,
   `The market is in a bear market | El mercado está en un mercado bajista`,
   `The market is in a bull market | El mercado está en un mercado alcista`,
+  `You'll wear out your shoes if you drag your feet like that | Te desgastarás los zapatos si arrastras los pies así`,
+  `He wore out the tires on his car | Se desgastaron las ruedas de su coche`,
+  `I'm really worn out. I'm gonna go to bed | Estoy realmente cansado. Voy a ir a la cama`,
+  `I don't want to wear oout my welcome | No quiero agotar mi bienvenida`,
 ]
