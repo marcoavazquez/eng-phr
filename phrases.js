@@ -3955,4 +3955,6 @@ const phrases = [
   `I still didn't have anything lined up | Todavía no tenía nada planeado`,
   `I still got rejected in the end | Al final me rechazaron`,
   `I had real-world experience alongside my coursework | Tenía experiencia en el mundo real junto con mi curso`,
+  `Why would anyone want to wear such goofy looking clothes? | ¿Por qué querría alguien llevar ropa tan ridícula?`,
+  `It says here that this fossil was dug up right near our very own neighborhood | Dice aquí que este fósil fue sacado de la tierra justo al lado de nuestra propia vecindad`,
 ]
