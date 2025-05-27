@@ -33,7 +33,7 @@ window.addEventListener('load', function () {
     searchParams.set('index', currentIndex)
     window.history.replaceState(null, null, '?' + searchParams.toString())
     const [english, spanish] = list[currentIndex].split('|')
-    phraseContainer.textContent = currentEnglish = english
+    phraseContainer.textContent = currentEnglish = english.trim()
     translationContainer.textContent = spanish || '🕸️' 
 
     const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']

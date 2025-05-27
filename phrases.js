@@ -3958,4 +3958,12 @@ const phrases = [
   `Why would anyone want to wear such goofy looking clothes? | ¿Por qué querría alguien llevar ropa tan ridícula?`,
   `It says here that this fossil was dug up right near our very own neighborhood | Dice aquí que este fósil fue sacado de la tierra justo al lado de nuestra propia vecindad`,
   `Read out loud | Leer en voz alta`,
+  `A kindergartner dwarf | Un niño de preescolar enano`,
+  `Six internship credit hours may count toward your major | Seis horas de crédito de pasantía pueden contar para tu especialidad`,
+  `Stop being such a pain | Deja de ser un pesado`,
+  `I like to think of myself as a bridge | Me gusta pensar en mí mismo como un puente`,
+  `I gotta think of a different way to carry you around | Tengo que pensar en una manera diferente de llevarte por ahí`,
+  `That's why I'm shutting down the shack for good | Por eso estoy cerrando la cabaña para siempre`,
+  `Tell it to the adorable owl we've dressed as a judge  | Cuéntalo al adorable búho que hemos vestido como juez`,
+  `Get used to being around fashion types | Acostúmbrate a estar rodeado de tipos de moda`,
 ]
