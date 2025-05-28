@@ -3966,4 +3966,7 @@ const phrases = [
   `That's why I'm shutting down the shack for good | Por eso estoy cerrando la cabaña para siempre`,
   `Tell it to the adorable owl we've dressed as a judge  | Cuéntalo al adorable búho que hemos vestido como juez`,
   `Get used to being around fashion types | Acostúmbrate a estar rodeado de tipos de moda`,
+  `Rather than endearment in the object of his attentions |  Más que cariño en el objeto de sus atenciones`,
+  `Making a big deal about it so people won't notice that you're a loser | Hacer un gran comentario sobre ello para que la gente no se dé cuenta de que eres un perdedor`,
+  `I'd much rather stay home and listen to my records | Preferiría quedarme en casa y escuchar mis discos`,
 ]
