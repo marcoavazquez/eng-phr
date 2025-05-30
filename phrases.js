@@ -3969,4 +3969,8 @@ const phrases = [
   `Rather than endearment in the object of his attentions |  Más que cariño en el objeto de sus atenciones`,
   `Making a big deal about it so people won't notice that you're a loser | Hacer un gran comentario sobre ello para que la gente no se dé cuenta de que eres un perdedor`,
   `I'd much rather stay home and listen to my records | Preferiría quedarme en casa y escuchar mis discos`,
+  `thrive in ambiguity and even failure | prosperar en la ambigüedad e incluso en el fracaso`,
+  `We may have lost a lawn, but he gained a role model  | Podríamos haber perdido un césped, pero ganó un modelo a seguir`,
+  `What is that horrible stench? | ¿Qué es ese horrible hedor?`,
+  `As much as the next fellow, but this nectar worries me | Como el siguiente tipo, pero este néctar me preocupa`,
 ]
