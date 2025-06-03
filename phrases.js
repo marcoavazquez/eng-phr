@@ -3973,4 +3973,9 @@ const phrases = [
   `We may have lost a lawn, but he gained a role model  | Podríamos haber perdido un césped, pero ganó un modelo a seguir`,
   `What is that horrible stench? | ¿Qué es ese horrible hedor?`,
   `As much as the next fellow, but this nectar worries me | Como el siguiente tipo, pero este néctar me preocupa`,
+  `Endure hardship and hardship | Aguantar el sufrimiento y el sufrimiento`,
+  `There's also the part about working a stupid job | También hay la parte de trabajar en un trabajo estúpido`,
+  `The mother has led her cubs a mile from the den | La madre ha llevado a sus cachorros una milla desde el nido`,
+  `This is the longest overland migration made by any animal | Esta es la migración terrestre más larga hecha por cualquier animal`,
+  `He didn't take very good care of himselft | No se cuidó muy bien`,
 ]
