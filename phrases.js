@@ -3978,4 +3978,6 @@ const phrases = [
   `The mother has led her cubs a mile from the den | La madre ha llevado a sus cachorros una milla desde el nido`,
   `This is the longest overland migration made by any animal | Esta es la migración terrestre más larga hecha por cualquier animal`,
   `He didn't take very good care of himselft | No se cuidó muy bien`,
+  `You giving her the mouth-to-throw-up-mouth treatment? | ¿Le estás dando la terapia de boca a boca?`,
+  `would have thrown me under the bus and run me over to get the same job | me habría tirado bajo el autobús y me habría atropellado para conseguir el mismo trabajo`,
 ]
