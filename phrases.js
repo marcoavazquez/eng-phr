@@ -3980,4 +3980,8 @@ const phrases = [
   `He didn't take very good care of himselft | No se cuidó muy bien`,
   `You giving her the mouth-to-throw-up-mouth treatment? | ¿Le estás dando la terapia de boca a boca?`,
   `would have thrown me under the bus and run me over to get the same job | me habría tirado bajo el autobús y me habría atropellado para conseguir el mismo trabajo`,
+  `I ought to fire you | Debería despedirte`,
+  `They ought to put a fence around the tar pit | Deberían poner una cerca alrededor del pozo de petróleo`,
+  `I ought to have known better | Debería haber sabido mejor`,
+  `They ought to arrest whoever thought that one up | Deberían arrestar a quien pensó eso`,
 ]
