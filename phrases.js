@@ -3984,4 +3984,7 @@ const phrases = [
   `They ought to put a fence around the tar pit | Deberían poner una cerca alrededor del pozo de petróleo`,
   `I ought to have known better | Debería haber sabido mejor`,
   `They ought to arrest whoever thought that one up | Deberían arrestar a quien pensó eso`,
+  `The peaks bear their sculpted forms | Las cumbres lucen sus formas esculpidas`,
+  `The gambling bug'll get you if you don't watch out | El gusanillo del juego te atrapará si no tienes cuidado`,
+  `Hold your fire | Mantén tu fuego`,
 ]
