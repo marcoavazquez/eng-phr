@@ -3987,4 +3987,7 @@ const phrases = [
   `The peaks bear their sculpted forms | Las cumbres lucen sus formas esculpidas`,
   `The gambling bug'll get you if you don't watch out | El gusanillo del juego te atrapará si no tienes cuidado`,
   `Hold your fire | Mantén tu fuego`,
+  `I'm about to blow your head off | Estoy a punto de volarte la cabeza`,
+  `Pretty far, I'm afraid | Muy lejos, tengo miedo`,
+  `Purveyors of America's finest automated vacuum cleaners | Proveedores de los mejores aspiradores automáticos de América`,
 ]
