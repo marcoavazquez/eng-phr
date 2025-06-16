@@ -3990,4 +3990,5 @@ const phrases = [
   `I'm about to blow your head off | Estoy a punto de volarte la cabeza`,
   `Pretty far, I'm afraid | Muy lejos, tengo miedo`,
   `Purveyors of America's finest automated vacuum cleaners | Proveedores de los mejores aspiradores automáticos de América`,
+  `When you crawl around in the dirt, you're bound to get dirty | Cuando te arrastras por el barro, inevitablemente te ensuciarás`,
 ]
