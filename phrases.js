@@ -3991,4 +3991,10 @@ const phrases = [
   `Pretty far, I'm afraid | Muy lejos, tengo miedo`,
   `Purveyors of America's finest automated vacuum cleaners | Proveedores de los mejores aspiradores automáticos de América`,
   `When you crawl around in the dirt, you're bound to get dirty | Cuando te arrastras por el barro, inevitablemente te ensuciarás`,
+  `Just drop out | Solo salte`,
+  `bottoms up | ¡Arriba!`,
+  `Tackle this particular mission | Aborde esta misión en particular`,
+  `Do I see "uncouth" written all over this contest? | ¿Veo "grosero" escrito en todo este concurso?`,
+  `Before I try to tackle those friendship lessons again | Antes de intentar abordar de nuevo esos lecciones de amistad`,
+  `It can make them doggies nice and slippery | Puede hacer que esos perritos sean agradables y resbaladizos`,
 ]
