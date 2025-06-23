@@ -3997,4 +3997,13 @@ const phrases = [
   `Do I see "uncouth" written all over this contest? | ¿Veo "grosero" escrito en todo este concurso?`,
   `Before I try to tackle those friendship lessons again | Antes de intentar abordar de nuevo esos lecciones de amistad`,
   `It can make them doggies nice and slippery | Puede hacer que esos perritos sean agradables y resbaladizos`,
+  `Let me fix it for you right away | Déjame arreglarlo por ti de inmediato`,
+  `I'll scoop up a hot un-Figgy at this game | Me apunto un caliente un-Figgy en este juego`,
+  `for standing up for herself | por defenderse a sí misma`,
+  `They're going after something bigger? | ¿Están buscando algo más grande?`,
+  `She's dedicated her life's work to finding those answers | Ella ha dedicado su trabajo de vida a encontrar esas respuestas`,
+  `Work to: Strive for goals by intentional effort and action | Trabajar para: Luchar por objetivos mediante esfuerzo y acción intencionales`,
+  `going after: chase after | perseguir a`,
+  `We're working to clean it up | Estamos trabajando para limpiarla`,
+  `I'm thinking about ordering it, What does it come with? | Estoy pensando en pedirlo, ¿con qué viene?`,
 ]
