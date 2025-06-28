@@ -4006,4 +4006,13 @@ const phrases = [
   `going after: chase after | perseguir a`,
   `We're working to clean it up | Estamos trabajando para limpiarla`,
   `I'm thinking about ordering it, What does it come with? | Estoy pensando en pedirlo, ¿con qué viene?`,
+  `That's how the mural work started | Así es como comenzó el trabajo del mural`,
+  `I used to shoot down dates -  quite right | Solía rechazar citas - muy bien`,
+  `Can I walk there? - Yes, It's a five-minute walk | ¿Puedo caminar allí? - Sí, es una caminata de cinco minutos`,
+  `Devoting 8 hours weekly unlocks consulting projects for you | Dedicando 8 horas semanales desbloquea proyectos de consultoría para ti`,
+  `Entailing 1-2 call to mentor businesses in need of your domain expertise, yet equipped to take action | Implica 1-2 llamadas para asesorar a empresas que necesitan tu experiencia en el dominio, pero están equipadas para tomar medidas`,
+  `You'll assess their past progress and help strategize for the future | Evaluarás su progreso pasado y ayudarás a planificar el futuro`,
+  `We've acknowledged your areas of expertise and will match you with businesses that need your help | Hemos reconocido tus áreas de experiencia y te emparejaremos con empresas que necesitan tu ayuda`,
+  `How can I get to the train station? | ¿Cómo puedo llegar a la estación de tren?`,
+  `Go straight and turn left at the big tree | Ve recto y gira a la izquierda en el gran árbol`,
 ]
