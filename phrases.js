@@ -4015,4 +4015,9 @@ const phrases = [
   `We've acknowledged your areas of expertise and will match you with businesses that need your help | Hemos reconocido tus áreas de experiencia y te emparejaremos con empresas que necesitan tu ayuda`,
   `How can I get to the train station? | ¿Cómo puedo llegar a la estación de tren?`,
   `Go straight and turn left at the big tree | Ve recto y gira a la izquierda en el gran árbol`,
+  `You stay out of this | Te mantienes fuera de esto`,
+  `I didn't work with either of the women you went out with | No trabajé con ninguna de las mujeres con las que saliste`,
+  `Stay out of my way | Mantente fuera de mi camino`,
+  `Don't come on too strong | No seas demasiado insistente`,
+  `I'll be right back, I've got some deleting to do | Volveré enseguida, tengo que hacer algunas eliminaciones`,
 ]
