@@ -4019,5 +4019,10 @@ const phrases = [
   `I didn't work with either of the women you went out with | No trabajé con ninguna de las mujeres con las que saliste`,
   `Stay out of my way | Mantente fuera de mi camino`,
   `Don't come on too strong | No seas demasiado insistente`,
-  `I'll be right back, I've got some deleting to do | Volveré enseguida, tengo que hacer algunas eliminaciones`,
+  `I'll be right back, I've got some deleting to do | Volveré enseguida, tengo que borrar algunas cosas `,
+  `Dare I? like, for sure | ¿Me atrevo? Seguro.`,
+  `Where would you like me to take it? | ¿Dónde le gustaría que la lleve/tome (foto)?`,
+  `If it's too much, I could take it down | Si es demasiado, podría quitarlo`,
+  `Because we just took it out | Porque acabamos de sacarlo`,
+  `I'm relieved that you're coming to terms with your alcoholism, it's huge | Estoy aliviado de que estés aceptando tu alcoholismo, es enorme`,
 ]
