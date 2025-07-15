@@ -18,11 +18,11 @@ window.addEventListener('load', function () {
   const searchParam = searchParams.get('search')
   const indexParam = searchParams.get('index')
 
-  let currentIndex = indexParam ? parseInt(indexParam) : 0
-  let currentEnglish = ''
-  let filtered = []
   let search = searchParam || ''
   let list = !!search ? filtered : phrases
+  let currentIndex = indexParam && parseInt(indexParam) < list.length ? parseInt(indexParam) : 0
+  let currentEnglish = ''
+  let filtered = []
 
   searchInput.value = search
 

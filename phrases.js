@@ -4025,4 +4025,10 @@ const phrases = [
   `If it's too much, I could take it down | Si es demasiado, podría quitarlo`,
   `Because we just took it out | Porque acabamos de sacarlo`,
   `I'm relieved that you're coming to terms with your alcoholism, it's huge | Estoy aliviado de que estés aceptando tu alcoholismo, es enorme`,
+  `Son long as he is involved, we are not | Mientras él esté involucrado, no lo estamos`,
+  `I came all the way over here to talk to you | He venido hasta aquí para hablar contigo`,
+  `Firmly grasp the handle of the door | Aferrarse firmemente a la manija de la puerta`,
+  `I am done listening to this talk | Ya no quiero seguir escuchando esta charla`,
+  `You don't say much, do you?  | ¿No dices mucho, verdad?`,
+  `Its kills its prey by sucking out the skeleton | Mata a su presa absorbiendo su esqueleto`,
 ]
