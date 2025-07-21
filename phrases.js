@@ -4031,4 +4031,10 @@ const phrases = [
   `I am done listening to this talk | Ya no quiero seguir escuchando esta charla`,
   `You don't say much, do you?  | ¿No dices mucho, verdad?`,
   `Its kills its prey by sucking out the skeleton | Mata a su presa absorbiendo su esqueleto`,
+  `I was beginning to think our new friends had made off | Empezaba a pensar que nuestros nuevos amigos se habían largado`,
+  `Would it have been easier if I'd been able to prepare for it? | ¿Habría sido más fácil si me hubiera podido preparar?`,
+  `Leaving us free to truly pursue world domination | Dejándonos libres para perseguir realmente la dominación mundial`,
+  `Make like the wind and blow away | Hacerse como el viento y alejarse`,
+  `We're almost out of time | ¡Estamos casi sin tiempo!`,
+  `I think peaches are in season, see if they have any | Creo que las peras están de temporada, ve si tienen alguna`,
 ]
