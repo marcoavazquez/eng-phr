@@ -4037,4 +4037,8 @@ const phrases = [
   `Make like the wind and blow away | Hacerse como el viento y alejarse`,
   `We're almost out of time | ¡Estamos casi sin tiempo!`,
   `I think peaches are in season, see if they have any | Creo que las peras están de temporada, ve si tienen alguna`,
+  `Getting proof of where the two missing beers went | Obtener pruebas de dónde se fueron las dos cervezas que faltaban`,
+  `You can't drink that out here | No puedes beber eso aquí`,
+  `I'm invested in your thing | Estoy comprometido con tu proyecto`,
+  `to get you overly invested in something | para que te involucre demasiado en algo`,
 ]
