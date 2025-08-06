@@ -4053,4 +4053,7 @@ const phrases = [
   `I look forward to working with you | Espero trabajar contigo`,
   `I'll cut your hands off and shove 'em so far up your ass | Te cortaré las manos y te las meteré hasta el culo`,
   `How am I doing so far? | ¿Cómo lo estoy haciendo hasta ahora?`,
+  `Heavy is the hand that bears the remote | Pesada es la mano que sostiene el mando a distancia`,
+  `Unless someone talks me out of it | A menos que alguien me convenza de lo contrario`,
+  `If you're gonna crawl back | Si vas a volver arrastrándote`,
 ]
