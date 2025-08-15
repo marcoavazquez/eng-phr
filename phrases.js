@@ -4068,4 +4068,8 @@ const phrases = [
   `going back and forth every day | yendo y viniendo todos los días`,
   `see what they come up with | ver qué se les ocurre`,
   `I guarantee no harm will come to you or your family | Garantizo que no habrá daño para ti o tu familia`,
+  `I'm going to have to punish you | Voy a tener que castigarte`,
+  `I'm gonna bring the ocean back or get really thirsty trying | Voy a traer de vuelta el océano o moriré de sed en el intento.`,
+  `Sooner or later, I'm going to understand what I'm for | Más pronto que tarde, voy a entender para qué estoy aquí.`,
+  `You come by it honestly, the ugliness inside you | Lo llevas honestamente, la fealdad dentro de ti`,
 ]
