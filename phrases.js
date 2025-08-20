@@ -4072,4 +4072,9 @@ const phrases = [
   `I'm gonna bring the ocean back or get really thirsty trying | Voy a traer de vuelta el océano o moriré de sed en el intento.`,
   `Sooner or later, I'm going to understand what I'm for | Más pronto que tarde, voy a entender para qué estoy aquí.`,
   `You come by it honestly, the ugliness inside you | Lo llevas honestamente, la fealdad dentro de ti`,
+  `the pink cardboard box awaits | la caja de cartón rosa espera`,
+  `What size do you wear? | ¿Qué talla usas?`,
+  `I wear a size 8 | Uso una talla 8`,
+  `You kind of let yourself go | Te has descuidado un poco. Te has dejado llevar un poco. De alguna manera te dejaste llevar`,
+  `Is their disabled brother just straight up chained to the wall? | ¿Su hermano discapacitado está simplemente encadenado a la pared?`,
 ]
