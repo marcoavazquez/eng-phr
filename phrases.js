@@ -4077,4 +4077,7 @@ const phrases = [
   `I wear a size 8 | Uso una talla 8`,
   `You kind of let yourself go | Te has descuidado un poco. Te has dejado llevar un poco. De alguna manera te dejaste llevar`,
   `Is their disabled brother just straight up chained to the wall? | ¿Su hermano discapacitado está simplemente encadenado a la pared?`,
+  `Seeing Hell's kitchen to its fullest potential | Viendo la cocina del infierno en todo su potencial`,
+  `He saw some junkie they've seen in the building before | Vio a algún drogadicto que habían visto en el edificio antes`,
+  `They will stand by our side in battle | Estarán a nuestro lado en la batalla, Nos apoyarán en la batalla`,
 ]
