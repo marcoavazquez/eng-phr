@@ -4080,4 +4080,10 @@ const phrases = [
   `Seeing Hell's kitchen to its fullest potential | Viendo la cocina del infierno en todo su potencial`,
   `He saw some junkie they've seen in the building before | Vio a algún drogadicto que habían visto en el edificio antes`,
   `They will stand by our side in battle | Estarán a nuestro lado en la batalla, Nos apoyarán en la batalla`,
+  `This is the lair for you | Esta es la guarida perfecta para ti.`,
+  `What did you have for breakfast this morning? | ¿Qué desayunaste esta mañana?`,
+  `I work in a factory outside town | Trabajo en una fábrica fuera de la ciudad`,
+  `When do you finish work? | ¿Cuándo terminas el trabajo? `,
+  `I'll take her to my place | La llevaré a mi casa`,
+  `I'll send him to your office when he comes back | Lo enviaré a tu oficina cuando regrese`,
 ]
