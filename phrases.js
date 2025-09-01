@@ -4086,4 +4086,12 @@ const phrases = [
   `When do you finish work? | ¿Cuándo terminas el trabajo? `,
   `I'll take her to my place | La llevaré a mi casa`,
   `I'll send him to your office when he comes back | Lo enviaré a tu oficina cuando regrese`,
+  `I didn't expect you | No te esperaba`,
+  `Kind regards | Saludos cordiales`,
+  `We should be promoting from within | Deberíamos promover desde adentro`,
+  `That is the fiction that we should be sticking to | Esa es la ficción a la que deberíamos aferrarnos`,
+  `I should be changing bedpans | Debería estar cambiando las sábanas`,
+  `Given what's at stake | Dado lo que está en juego`,
+  `the minute we fry one facility | el minuto que freímos una instalación`,
+  `let's stay in touch | mantengámonos en contacto`,
 ]
