@@ -1,4 +1,14 @@
-window.addEventListener('load', function () {
+async function fetchData() {
+  try {
+    const data = await fetch('./data.json')
+    return data.json()
+  } catch (error) {
+    console.error('Error fetching data:', error)
+    return { data: [error.toString()] }
+  }
+}
+
+window.addEventListener('load',async function () {
   const phraseContainer = document.querySelector('#phrase')
   const translationContainer = document.querySelector('#translation')
   const speakBtn = document.querySelector('#btn-speak')
@@ -18,8 +28,10 @@ window.addEventListener('load', function () {
   const searchParam = searchParams.get('search')
   const indexParam = searchParams.get('index')
 
+  const phrases = await fetchData()
+
   let search = searchParam || ''
-  let list = !!search ? filtered : phrases
+  let list = !!search ? filtered : phrases.data
   let currentIndex = indexParam && parseInt(indexParam) < list.length ? parseInt(indexParam) : 0
   let currentEnglish = ''
   let filtered = []

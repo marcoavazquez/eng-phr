@@ -1,4 +1,4 @@
-const phrases = [
+{ "data" :[
   "Years of logging had left the mountains prone to mudslides | Susceptible, vulnerable, liable",
   "We have a briefer who will be able to go into this in greater detail | Tenemos un informante que podrá entrar en esto con mayor detalle",
   "misusing | Use (something) in the wrong way or for the wrong purpose",
@@ -49,7 +49,6 @@ const phrases = [
   "thoughtful | Considerado",
   "curated listicles | Listas seleccionadas",
   "straightforward: A straightforward young man; In a straightforward case no fees will be charged | Uncomplicated and easy to do or understand; Directo: Un joven sencillo",
-  // page 2
   "Its dependencies remain unchanged | ...permanecen sin cambios",
   "leverage: The organization needs to leverage its key resources | use (something) to maximum advantage",
   "do either of the following | Hacer cualquiera de las siguientes...",
@@ -100,7 +99,6 @@ const phrases = [
   "the stale value | El valor obsoleto",
   "clear out | Aclarar",
   "arguably | Posiblemente",
-  // page 3
   "tempted (sometimes you might feel tempted to...) | Entice or attempt to entice (someone) to do or acquire something that they find attractive but know to be wrong or not beneficial (Tentado(a))",
   "Entice | Attract or tempt by offering pleasure or advantage (Atraer)",
   "resilient",
@@ -151,7 +149,6 @@ const phrases = [
   "We can get rid of some of that cruft by... | Get rid of: Deshacerse; ",
   "Cruft | Badly designed, unnecessarily complicated, or unwanted code or software",
   "flawed | Blemished, damaged, or imperfect in some way (Defectuoso)",
-  // page 4
   "move around",
   "Ruthlessly | sin piedad",
   "negligible | So small or unimportantj as to be not worth considering; insignificant (despreciable)",
@@ -202,7 +199,6 @@ const phrases = [
   "And the real you made fun of my pie suit | Y la verdad es que te burlaste de mi traje pastel",
   "The word `crowded` can mean that there are a lot of people or too many people in one place",
   "The school's sports day is held at a large venue | ...se celebra en un gran recinto",
-  // page 5
   "life out here is very different than life in the city",
   "I am getting better at (it) | Estoy mejorando",
   "Around the corner = very close (place)",
@@ -253,7 +249,6 @@ const phrases = [
   "It gets wiped out in memory | (erased from memory)",
   "Conversely | (in another hand)",
   "It's important not to confuse",
-  // page 6
   "We like to go on holiday in the summer",
   "slight differences",
   "to go on a cruise | Crucero",
@@ -304,7 +299,6 @@ const phrases = [
   "My flight doesn't leave until 11pm",
   "I often spend time with my friends, It will be nice to spend some time together",
   "I'm sorry I screed up | Siendo haber metido la pata",
-  // page 7
   "Plus 30 degrees fharenheit and rising | Mas 30 grados fahrenheit y subiendo",
   "So far, so good | Hasta ahora, todo bien",
   "Verb patterns involve two verbs: a __stative__ verb that refers to a state of mind, and an __action__ verb. Stative verbs: to want to ..., to like to..., to decide to..., to hope to... to plan to..., to try to...",
@@ -355,7 +349,6 @@ const phrases = [
   "I may take the whole army single-handed | Puede que me lleve a todo el ejercito sin ayuda",
   "I was heading for an island with wild natives | Me dirigía a una isla con nativos salvajes",
   "There's something wrong with my computer screen",
-  // page 8
   "Did you manage to connect your phone to the wifi?",
   "Could you give me a hand with this application?",
   "I could switch fields for a change, too | Yo también cambiaría de sector",
@@ -3443,7 +3436,7 @@ const phrases = [
   "Do you think people rely too much on technology these days? | ¿Crees que la gente se apoya demasiado en la tecnología en la actualidad?",
   "even if they already have an older one that works just fine | incluso si ya tienen uno más antiguo que funciona perfectamente",
   "That must be why he sought the powers of the pendant | Eso debe ser por lo que buscó los poderes del pendiente",
-  "Suspects headed west on the highway | Los sospechosos se dirigieron hacia el oeste por la autopista",,
+  "Suspects headed west on the highway | Los sospechosos se dirigieron hacia el oeste por la autopista",
   "He is off the hook | Está libre de cargos/fuera de juegos",
   "Let's see him get away with that | Veamos cómo se libra de eso",
   "I haven't ever tried Korean food | Nunca he probado comida coreana",
@@ -4002,4 +3995,10 @@ const phrases = [
   "The skills in highest demand right now | Las habilidades más demandadas actualmente",
   "You want to be creepy? creep on this | ¿Quieres ser espeluznante? espía esto / ¿Quieres ser espeluznante? Asómate a esto.",
   "I fear something terrible has happened to the holiday hare | Temo que algo terrible le haya pasado a la liebre de las vacaciones",
-]
+  "It turned its back on me | Me dio la espalda",
+  "for once, let me be the one who does something for you | por una vez, déjame ser yo quien haga algo por ti",
+  "Let's get this show on the road | Pongamos esto en marcha",
+  "Turned my back: Phisically face away from someone or something",
+  "He may have turned his back on us | Puede que nos haya dado la espalda",
+  "Who do you do work for? | ¿Para quién trabajas?"
+]}
