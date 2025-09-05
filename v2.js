@@ -54,10 +54,11 @@ window.addEventListener('load',async function () {
     const [nextEnglish, nextSpanish] = list[currentIndex + 1] ? list[currentIndex + 1].split('|') : ['','']
     nextPhrases.textContent = nextEnglish
     nextTranslation.textContent = nextSpanish || '🕸️'
+    setCounter()
   }
 
   function setCounter () {
-    counter.textContent = currentIndex + 1 + '/' + list.length
+    counter.textContent = `${currentIndex + 1}/${list.length}`
   }
 
   speakBtn.addEventListener('click', function () {
