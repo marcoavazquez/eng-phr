@@ -46,14 +46,14 @@ window.addEventListener('load',async function () {
     window.history.replaceState(null, null, '?' + searchParams.toString())
     const [english, spanish] = list[currentIndex].split('|')
     phraseContainer.textContent = currentEnglish = english.trim()
-    translationContainer.textContent = spanish || '🕸️' 
+    translationContainer.textContent = spanish || '[No translation]' 
 
-    const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']
-    prevPhrases.textContent = prevEnglish
-    prevTranslation.textContent = prevSpanish || '🕸️'
-    const [nextEnglish, nextSpanish] = list[currentIndex + 1] ? list[currentIndex + 1].split('|') : ['','']
-    nextPhrases.textContent = nextEnglish
-    nextTranslation.textContent = nextSpanish || '🕸️'
+    // const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']
+    // prevPhrases.textContent = prevEnglish
+    // prevTranslation.textContent = prevSpanish || '🕸️'
+    // const [nextEnglish, nextSpanish] = list[currentIndex + 1] ? list[currentIndex + 1].split('|') : ['','']
+    // nextPhrases.textContent = nextEnglish
+    // nextTranslation.textContent = nextSpanish || '🕸️'
     setCounter()
   }
 

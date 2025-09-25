@@ -1,52 +1,28 @@
 body {
   background-color: #111;
-  color: white;
-  font-family: Roboto, sans-serif;
-  font-size: 18px;
+  font-family: Roboto, 'Segoe UI', Ubuntu, Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
 }
 
 header {
   max-width: 520px;
   margin: 0 auto;
-  padding: 1rem 0;
+  padding: 2rem 0;
 }
 
 main {
   max-width: 520px;
   margin: 0 auto;
-  perspective: 1500px;
-  padding: 1rem 0;
+  border-radius: 1rem;
+  overflow: hidden;
+  /* perspective: 1500px; */
 }
 
-/* nav {
-  display: flex;
-  justify-content: space-between;
-  border-radius: 3rem;
-  border: 1px solid #111;
-  overflow: hidden;
-  margin: 2rem 0;
-}
-nav button {
-  color: #ABC;
-  background-color: transparent;
-  text-transform: uppercase;
-  font-size: 12px;
-  border: none;
-  padding: 0.75rem 1rem;
-  width: 100%;
-  box-shadow: 0.1rem 0.1rem 0.25rem rgb(255 255 255 / 0.1) inset;
-  transition: 0.25s ease-in-out all;
-}
-nav button:hover {
-  background-color: #111;
-} */
 form {
   display: flex;
   border: 1px solid #333;
   border-radius: 1rem;
   overflow: hidden;
-  box-shadow: 0.25rem 0.25rem 0.5rem rgb(0 0 0  / 1),
-    -0.25rem -0.25rem 0.5rem rgb(255 255 255 / 0.1);
 }
 form button {
   background-color: #111;
@@ -60,19 +36,20 @@ input {
   border: none;
   width: 100%;
   padding: 0.75rem 1rem;
-  box-shadow: 0.1rem 0.1rem 0.5rem rgb(0 0 0  / 1) inset,
-    -0.1rem -0.1rem 0.5rem rgb(255 255 255 / 0.1) inset;
 }
 
 #phrase {
-  padding: 2rem 0;
+  color: #eee;
+  padding: 1rem 0;
   line-height: 2rem;
 }
 
 #translation {
+  color: #bababa;
   display: block;
-  padding: 2rem 0;
+  padding: 1rem 0;
   font-style: italic;
+  line-height: 2;
 }
 
 #counter {
@@ -80,50 +57,34 @@ input {
   display: inline-block;
   font-size: 12px;
   text-align: right;
+  padding: 1rem 0;
   width: 100%;
 }
 .current {
   background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   padding: 0 1rem;
-  box-shadow: 0.1rem 0.1rem 0.25rem rgb(0 0 0  / 1),
-    -0.1rem -0.1rem 0.25rem rgb(255 255 255 / 0.1);
+  min-height: 18rem;
 }
 
 main button {
-  color: white;
+  color: #111;
+  text-shadow: 1px 1px 1px #555, -1px -1px 1px black;
   display: inline-block;
   width: 100%;
-  background: #111;
-  padding: 1rem;
+  background: #000;
+  padding: 1.25rem;
   border: none;
-  border-radius: 2rem;
-  box-shadow: 0.25rem 0.25rem 0.5rem rgb(0 0 0  / 1),
-    -0.25rem -0.25rem 0.5rem rgb(255 255 255 / 0.1);
+  box-shadow: inset 0.1rem 0.1rem 3rem rgb(0 0 0 / 1),
+    inset -0.1rem -0.1rem 3rem rgba(255, 255, 255, 0.2);
 }
 main button:hover {
-  background: #000;
+  background: #111;
 }
 
-.first, .last {
-  color: #cacaca;
-  margin: 1rem 0;
-}
-
-.previous, .next {
-  font-size: 80%;
-  opacity: 0.3;
-  text-align: left;
-  border: 1px solid  #222;
-  padding: 1rem;
-  > div {
-    padding: 0.5rem 0;
-  }
-}
-.previous {
-  transform: rotateX(15deg);
-  border-radius: 1rem 1rem 0 0;
-}
-.next {
-  transform: rotateX(-15deg);
-  border-radius: 0 0 1rem 1rem;
+.shadow {
+  box-shadow: 0.25rem 0.25rem 0.25rem rgb(0 0 0  / 1),
+    -0.25rem -0.25rem 0.25rem rgba(255, 255, 255, 0.1);
 }
