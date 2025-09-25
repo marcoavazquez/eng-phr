@@ -18,7 +18,7 @@ nav {
   border-radius: 3rem;
   border: 1px solid #111;
   overflow: hidden;
-  margin-top: 2rem;
+  margin: 2rem 0;
 }
 nav button {
   color: #ABC;
@@ -81,7 +81,7 @@ input {
 
 .previous, .next {
   color: #666;
-  padding: 1rem 0;
+  padding: 1rem 0.5rem;
   font-size: 60%;
   > div {
     padding: 0.5rem 0;
@@ -89,11 +89,11 @@ input {
 }
 .previous {
   transform: rotateX(20deg);
-  background-image: linear-gradient(0deg, #111, #000);
+  background-image: linear-gradient(0deg, #000, #111);
   border-radius: 1rem 1rem 0 0;
 }
 .next {
   transform: rotateX(-20deg);
-  background-image: linear-gradient(0deg, #000, #111);
+  background-image: linear-gradient(0deg, #111, #000);
   border-radius: 0 0 1rem 1rem;
 }
