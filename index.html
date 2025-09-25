@@ -9,35 +9,31 @@
   <title>Read</title>
 </head>
 <body>
-  <main>
+  <header>
     <form id="search-form">
       <input type="search" name="search" placeholder="Search">
       <button type="submit">🔍</button>
     </form>
-    <nav>
-      <button id="btn-first">First</button>
-      <button id="btn-prev">Prev</button>
+  </header>
+  <main>
+    <button id="btn-first" class="first">First</button>
+    <button id="btn-prev" class="previous">
+      <div id="prev-phrase">Previos</div>
+      <small id="prev-translation"></small>
+    </button>
+    <div class="current">
+      <div id="phrase">
+        Loading...
+      </div>
       <button id="btn-speak">🔊</button>
-      <button id="btn-next">Next</button>
-      <button id="btn-last">Last</button>
-    </nav>
-    <div>
-      <div class="previous">
-        <div id="prev-phrase"></div>
-        <small id="prev-translation"></small>
-      </div>
-      <div class="current">
-        <div id="phrase">
-          Loading...
-        </div>
-        <small id="translation">Cargando...</small>
-        <code id="counter">0/0</code>
-      </div>
-      <div class="next">
-        <div id="next-phrase"></div>
-        <small id="next-translation"></small>
-      </div>
+      <small id="translation">Cargando...</small>
+      <code id="counter">0/0</code>
     </div>
+    <button id="btn-next" class="next">
+      <div id="next-phrase">Next</div>
+      <small id="next-translation"></small>
+    </button>
+    <button id="btn-last" class="last">Last</button>
   </main>
 </body>
 </html>

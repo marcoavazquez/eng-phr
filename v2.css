@@ -1,18 +1,24 @@
 body {
-  background-color: #000;
+  background-color: #111;
   color: white;
   font-family: Roboto, sans-serif;
   font-size: 18px;
-  padding: 0 1rem;
+}
+
+header {
+  max-width: 520px;
+  margin: 0 auto;
+  padding: 1rem 0;
 }
 
 main {
   max-width: 520px;
   margin: 0 auto;
-  border-radius: 0.25rem;
+  perspective: 1500px;
+  padding: 1rem 0;
 }
 
-nav {
+/* nav {
   display: flex;
   justify-content: space-between;
   border-radius: 3rem;
@@ -33,12 +39,14 @@ nav button {
 }
 nav button:hover {
   background-color: #111;
-}
+} */
 form {
   display: flex;
   border: 1px solid #333;
   border-radius: 1rem;
   overflow: hidden;
+  box-shadow: 0.25rem 0.25rem 0.5rem rgb(0 0 0  / 1),
+    -0.25rem -0.25rem 0.5rem rgb(255 255 255 / 0.1);
 }
 form button {
   background-color: #111;
@@ -47,11 +55,13 @@ form button {
 }
 input {
   color: #ccc;
-  background-color: #000;
+  background-color: #111;
   flex: 1;
   border: none;
   width: 100%;
   padding: 0.75rem 1rem;
+  box-shadow: 0.1rem 0.1rem 0.5rem rgb(0 0 0  / 1) inset,
+    -0.1rem -0.1rem 0.5rem rgb(255 255 255 / 0.1) inset;
 }
 
 #phrase {
@@ -72,28 +82,48 @@ input {
   text-align: right;
   width: 100%;
 }
-
 .current {
-  border-width: 1px 0;
-  border-style: solid;
-  border-color: #111;
+  background-color: black;
+  padding: 0 1rem;
+  box-shadow: 0.1rem 0.1rem 0.25rem rgb(0 0 0  / 1),
+    -0.1rem -0.1rem 0.25rem rgb(255 255 255 / 0.1);
+}
+
+main button {
+  color: white;
+  display: inline-block;
+  width: 100%;
+  background: #111;
+  padding: 1rem;
+  border: none;
+  border-radius: 2rem;
+  box-shadow: 0.25rem 0.25rem 0.5rem rgb(0 0 0  / 1),
+    -0.25rem -0.25rem 0.5rem rgb(255 255 255 / 0.1);
+}
+main button:hover {
+  background: #000;
+}
+
+.first, .last {
+  color: #cacaca;
+  margin: 1rem 0;
 }
 
 .previous, .next {
-  color: #666;
-  padding: 1rem 0.5rem;
-  font-size: 60%;
+  font-size: 80%;
+  opacity: 0.3;
+  text-align: left;
+  border: 1px solid  #222;
+  padding: 1rem;
   > div {
     padding: 0.5rem 0;
   }
 }
 .previous {
-  transform: rotateX(20deg);
-  background-image: linear-gradient(0deg, #000, #111);
+  transform: rotateX(15deg);
   border-radius: 1rem 1rem 0 0;
 }
 .next {
-  transform: rotateX(-20deg);
-  background-image: linear-gradient(0deg, #111, #000);
+  transform: rotateX(-15deg);
   border-radius: 0 0 1rem 1rem;
 }
