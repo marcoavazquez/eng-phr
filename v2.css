@@ -8,6 +8,14 @@ header {
   max-width: 520px;
   margin: 0 auto;
   padding: 2rem 0;
+  display: flex;
+  gap: 1rem;
+}
+header form:first-child {
+  flex: 3;
+}
+header form:last-child {
+  flex: 2;
 }
 
 main {

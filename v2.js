@@ -17,12 +17,13 @@ window.addEventListener('load',async function () {
   const nextBtn = document.querySelector('#btn-next')
   const lastBtn = document.querySelector('#btn-last')
   const counter = document.querySelector('#counter')
-  const form = document.querySelector('form')
+  const formSearch = document.querySelector('#search-form')
+  const formGoto = document.querySelector('#goto-form')
   const searchInput = document.querySelector('form input[type=search]')
-  const prevPhrases = document.querySelector('#prev-phrase')
-  const prevTranslation = document.querySelector('#prev-translation')
-  const nextPhrases = document.querySelector('#next-phrase')
-  const nextTranslation = document.querySelector('#next-translation')
+  // const prevPhrases = document.querySelector('#prev-phrase')
+  // const prevTranslation = document.querySelector('#prev-translation')
+  // const nextPhrases = document.querySelector('#next-phrase')
+  // const nextTranslation = document.querySelector('#next-translation')
 
   const searchParams = new URLSearchParams(this.location.search)
   const searchParam = searchParams.get('search')
@@ -83,7 +84,8 @@ window.addEventListener('load',async function () {
     currentIndex = list.length - 1
     setPhrase()
   })
-  form.addEventListener('submit', function (e) {
+
+  formSearch.addEventListener('submit', function (e) {
     e.preventDefault()
     search = e.target.search.value.trim()
     searchParams.set('search', search)
@@ -99,6 +101,15 @@ window.addEventListener('load',async function () {
     setCounter()
     currentIndex = 0
     setPhrase()
+  })
+
+  formGoto.addEventListener('submit', function (e) {
+    e.preventDefault()
+    const gotoIndex = parseInt(e.target.goto.value.trim()) - 1 
+    if (gotoIndex >= 0 && gotoIndex < list.length) {
+      currentIndex = gotoIndex
+      setPhrase()
+    }
   })
 
   setPhrase()
