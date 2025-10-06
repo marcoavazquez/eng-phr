@@ -8,14 +8,17 @@ header {
   max-width: 520px;
   margin: 0 auto;
   padding: 2rem 0;
-  display: flex;
-  gap: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 8.5rem), 1fr));
+  gap: 1rem 1rem;
+  text-align: center;
 }
 header form:first-child {
-  flex: 3;
+  grid-column: span 2;
 }
 header form:last-child {
-  flex: 2;
+  grid-column: span 1;
+  justify-self: end;
 }
 
 main {
@@ -96,7 +99,7 @@ main button:hover {
   color: #aaa;
   background: #111;
 }
-main button:first-child, main button:last-child {
+/* main button:first-child, main button:last-child {
   opacity: 0.6;
   padding: 1rem 0;
 }
@@ -105,7 +108,7 @@ main button:first-child {
 }
 main button:last-child {
   margin-top: 2rem;
-}
+} */
 
 .shadow {
   box-shadow: 0.25rem 0.25rem 0.25rem rgb(0 0 0  / 1),

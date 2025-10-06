@@ -12,10 +12,10 @@ window.addEventListener('load',async function () {
   const phraseContainer = document.querySelector('#phrase')
   const translationContainer = document.querySelector('#translation')
   const speakBtn = document.querySelector('#btn-speak')
-  const firstBtn = document.querySelector('#btn-first')
+  // const firstBtn = document.querySelector('#btn-first')
+  // const lastBtn = document.querySelector('#btn-last')
   const prevBtn = document.querySelector('#btn-prev')
   const nextBtn = document.querySelector('#btn-next')
-  const lastBtn = document.querySelector('#btn-last')
   const counter = document.querySelector('#counter')
   const formSearch = document.querySelector('#search-form')
   const formGoto = document.querySelector('#goto-form')
@@ -46,7 +46,7 @@ window.addEventListener('load',async function () {
     searchParams.set('index', currentIndex)
     window.history.replaceState(null, null, '?' + searchParams.toString())
     const [english, spanish] = list[currentIndex].split('|')
-    phraseContainer.textContent = currentEnglish = english.trim()
+    phraseContainer.innerHTML = currentEnglish = english.trim()
     translationContainer.textContent = spanish || '[No translation]' 
 
     // const [prevEnglish, prevSpanish] = list[currentIndex - 1] ? list[currentIndex - 1].split('|') : ['','']
@@ -68,10 +68,10 @@ window.addEventListener('load',async function () {
     speechSynthesis.speak(utterance)
   })
 
-  firstBtn.addEventListener('click', function () {
-    currentIndex = 0
-    setPhrase()
-  })
+  // firstBtn.addEventListener('click', function () {
+  //   currentIndex = 0
+  //   setPhrase()
+  // })
   prevBtn.addEventListener('click', function () {
     currentIndex = currentIndex > 0 ? currentIndex - 1 : 0
     setPhrase()
@@ -80,10 +80,10 @@ window.addEventListener('load',async function () {
     currentIndex = currentIndex < list.length - 1 ? currentIndex + 1 : currentIndex
     setPhrase()
   })
-  lastBtn.addEventListener('click', function () {
-    currentIndex = list.length - 1
-    setPhrase()
-  })
+  // lastBtn.addEventListener('click', function () {
+  //   currentIndex = list.length - 1
+  //   setPhrase()
+  // })
 
   formSearch.addEventListener('submit', function (e) {
     e.preventDefault()
