@@ -1,7 +1,8 @@
 body {
-  background-color: #000;
+  background: linear-gradient(-45deg, #110a00, #001111);
   font-family: Roboto, 'Segoe UI', Ubuntu, Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
+  min-height: calc(100vh - 2rem);
 }
 
 header {
