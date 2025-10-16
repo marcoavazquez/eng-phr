@@ -88,17 +88,15 @@ main button {
   text-shadow: 1px 1px 1px #555, -1px -1px 1px black;
   display: inline-block;
   width: 100%;
-  background: #000;
+  background: linear-gradient(170deg, #001111, #110a00);
   padding: 1.5rem 0.5rem;
   border-style: solid;
   border-color: black;
   border-width: 1px 0;
-  box-shadow: inset 0.1rem 0.1rem 3rem rgb(0 0 0 / 1),
-    inset -0.1rem -0.1rem 3rem rgba(255, 255, 255, 0.1);
 }
 main button:hover {
   color: #aaa;
-  background: #111;
+  background: linear-gradient(170deg, #001111, #110a00);
 }
 /* main button:first-child, main button:last-child {
   opacity: 0.6;
