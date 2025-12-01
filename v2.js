@@ -115,3 +115,4 @@ window.addEventListener('load',async function () {
   setPhrase()
   setCounter()
 })
+
