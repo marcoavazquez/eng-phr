@@ -73,21 +73,20 @@ input {
   display: inline-block;
   font-size: 12px;
   text-align: right;
-  padding: 1rem 0;
   width: 100%;
 }
 
 .current {
   background-color: black;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
   font-size: 1.2rem;
-  padding: 0 1rem;
-  min-height: 18rem;
+  padding: 1rem;
   border-style: solid;
   border-color: #210 transparent #022 transparent;
   border-width: 1px 0;
+}
+
+main nav {
+  display: flex;
 }
 
 main button {
@@ -122,4 +121,11 @@ main button:last-child {
   border: 1px solid rgb(255 255 255 / 0.1);
   box-shadow: 0.2rem 0.2rem 0.5rem rgb(255 100 0 / 0.2),
     -0.2rem -0.2rem 0.5rem rgba(0 255 255 / 0.2);
+}
+
+.flex-1 {
+  flex: 1;
+}
+.flex-2 {
+  flex: 2;
 }
