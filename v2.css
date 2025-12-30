@@ -4,12 +4,14 @@ body {
   font-family: Roboto, 'Segoe UI', Ubuntu, Tahoma, Geneva, Verdana, sans-serif;
   font-size: 16px;
   min-height: calc(100vh - 2rem);
+  margin: 0;
+  padding: 0 1rem;
 }
 
 header {
   max-width: 680px;
   margin: 0 auto;
-  padding: 2rem 0;
+  padding: 1rem 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 8.5rem), 1fr));
   gap: 1rem 1rem;
@@ -56,8 +58,8 @@ input {
 
 #phrase {
   color: #abb;
-  padding: 1rem 0;
   line-height: 2.5rem;
+  min-height: 10rem;
 }
 
 #translation {
@@ -66,6 +68,7 @@ input {
   padding: 1rem 0;
   font-style: italic;
   line-height: 2;
+  min-height: 8rem;
 }
 
 #counter {
@@ -78,7 +81,6 @@ input {
 
 .current {
   background-color: black;
-  font-size: 1.2rem;
   padding: 1rem;
   border-style: solid;
   border-color: #210 transparent #022 transparent;
@@ -94,7 +96,7 @@ main button {
   text-shadow: 1px 1px 1px #555, -1px -1px 1px black;
   display: inline-block;
   width: 100%;
-  background: linear-gradient(170deg, #001111, #110a00);
+  background: linear-gradient(120deg, rgb(0 255 255 / 0.1), rgb(255 100 0 / 0.1));
   padding: 1.5rem 0.5rem;
   border-style: solid;
   border-color: black;
@@ -119,8 +121,8 @@ main button:last-child {
 
 .shadow {
   border: 1px solid rgb(255 255 255 / 0.1);
-  box-shadow: 0.2rem 0.2rem 0.5rem rgb(255 100 0 / 0.2),
-    -0.2rem -0.2rem 0.5rem rgba(0 255 255 / 0.2);
+  box-shadow: 0.2rem 0.2rem 0.5rem rgb(255 100 0 / 0.1),
+    -0.2rem -0.2rem 0.5rem rgba(0 255 255 / 0.1);
 }
 
 .flex-1 {
