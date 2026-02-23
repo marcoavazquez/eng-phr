@@ -14,6 +14,7 @@ header {
   padding: 1rem 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(min(100%, 8.5rem), 1fr));
+  align-items: center;
   gap: 1rem 1rem;
   text-align: center;
 }
@@ -25,6 +26,10 @@ header form:first-child {
 header form:last-child {
   grid-column: span 1;
   justify-self: end;
+}
+
+header a {
+  color: #ccc;
 }
 
 main {

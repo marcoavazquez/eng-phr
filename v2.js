@@ -1,6 +1,6 @@
-async function fetchData() {
+async function fetchData(resource) {
   try {
-    const data = await fetch('./data.json')
+    const data = await fetch(`./${resource}.json`)
     return data.json()
   } catch (error) {
     console.error('Error fetching data:', error)
@@ -28,8 +28,9 @@ window.addEventListener('load',async function () {
   const searchParams = new URLSearchParams(this.location.search)
   const searchParam = searchParams.get('search')
   const indexParam = searchParams.get('index')
+  const resource = searchParams.get('resource') || 'data'
 
-  const phrases = await fetchData()
+  const phrases = await fetchData(resource)
 
   let search = searchParam || ''
   let list = !!search ? filtered : phrases.data
