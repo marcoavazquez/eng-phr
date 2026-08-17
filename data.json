@@ -4645,6 +4645,12 @@
     "One way to flatten the waterfall would be to hoist the event loop into a worker thread | Una forma de aplanar la cascada sería elevar el bucle de eventos a un hilo de trabajo",
     "Used to make strangers acquainted with one another | Se usa para presentar a personas desconocidas",
     "He has been dealt with | Se ha encargado de él",
-    "What's the deal with all this mess? | ¿Qué pasa con todo este desastre?"
+    "What's the deal with all this mess? | ¿Qué pasa con todo este desastre?",
+    "Thumbs up, indeed my friend | Pulgar arriba, ciertamente amigo mío",
+    "As if his life depended on it | Como si su vida dependiera de ello",
+    "I can swear for real, right? | Puedo jurar de verdad, ¿verdad?",
+    "You're really going to go through with this? | ¿De verdad vas a seguir con esto?",
+    "For real: genuine, sincere, truthful, and earnest | De verdad: genuino, sincero, veraz y honesto",
+    "We want to interview you about whether you've seen anything unusual | Queremos entrevistarte para saber si has visto algo fuera de lo común"
   ]
 }
